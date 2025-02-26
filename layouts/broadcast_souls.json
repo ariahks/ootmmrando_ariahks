@@ -1,0 +1,13 @@
+{
+    "tracker_broadcast": {
+        "type": "container",
+        "width": 837,
+        "background": "#212121",
+        "content": {
+            "type": "layout",
+            "dropshadow": true,
+            "margin": 0,
+            "key": "shared_items_souls"
+        }
+    }
+}

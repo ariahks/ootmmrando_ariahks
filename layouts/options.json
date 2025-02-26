@@ -1,0 +1,500 @@
+{
+    "quest_settings": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "item_margin": "1,2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "setting_triforce_quest"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_triforce_pieces_needed"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_thieves_hideout_keys"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_treasure_chest_game_keys"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_ganon_boss_key"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_town_stray_fairy"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_skeleton_key"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "item_margin": "1,2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "setting_oot_dungeons"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_dungeon_maps_and_compasses"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_silver_rupees"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_dungeon_small_keys"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_dungeon_boss_keys"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_dungeon_stray_fairies"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_magical_rupee"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    }
+                ]
+            }
+        ]
+    },
+    "item_settings": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "item_margin": "1,2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "setting_red_coin_count"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_yellow_coin_count"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_green_coin_count"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blue_coin_count"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_shuffle_c_buttons"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_owl_statues"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_clocks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "item_margin": "1,2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "setting_use_oot_mm_sprites"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_max_wallet"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_full_lullaby_only"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_skip_child_zelda"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_skulltula_tokens"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_tingle_maps"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_eggs"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_progressive_knife_and_biggoron"
+                    }
+                ]
+            }
+        ]
+    },
+    "key_rings": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "item_margin": "1,2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_forest_temple"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_fire_temple"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_water_temple"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_spirit_temple"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_shadow_temple"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_thieves_hideout"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_treasure_chest_game"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "item_margin": "1,2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "setting_key_rings"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_woodfall_temple"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_snowhead_temple"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_great_bay_temple"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_stone_tower_temple"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_bottom_of_the_well"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_gerudo_training_grounds"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_key_ring_ganons_castle"
+                    }
+                ]
+            }
+        ]
+    },
+    "silver_rupee_pouches": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "item_margin": "1,2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "setting_srpouch_dodongos_cavern"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_srpouch_ice_cavern"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_srpouch_bottom_of_the_well"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_srpouch_gerudo_training_ground"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "item_margin": "1,2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "setting_silver_rupee_pouches"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_srpouch_spirit_temple"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_srpouch_shadow_temple"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_srpouch_ganons_castle"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    }
+                ]
+            }
+        ]
+    },
+    "soul_settings": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "item_margin": "1,2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "setting_souls_label_by_game"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "item_margin": "1,2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "setting_souls_boss"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_souls_enemy"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_souls_npc"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_souls_misc"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    },
+                    {
+                        "type": "item",
+                        "item": "setting_blank"
+                    }
+                ]
+            }
+        ]
+    },
+    "options_popup": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Quest Settings",
+                "content": {
+                    "type": "layout",
+                    "key": "quest_settings",
+                    "h_alignment": "right"
+                }
+            },
+            {
+                "title": "Item Settings",
+                "content": {
+                    "type": "layout",
+                    "key": "item_settings",
+                    "h_alignment": "right"
+                }
+            },
+            {
+                "title": "Key Rings",
+                "content": {
+                    "type": "layout",
+                    "key": "key_rings",
+                    "h_alignment": "right"
+                }
+            },
+            {
+                "title": "Silver Rupee Pouches",
+                "content": {
+                    "type": "layout",
+                    "key": "silver_rupee_pouches",
+                    "h_alignment": "right"
+                }
+            }
+        ]
+    },
+    "options_popup_souls": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Quest Settings",
+                "content": {
+                    "type": "layout",
+                    "key": "quest_settings",
+                    "h_alignment": "right"
+                }
+            },
+            {
+                "title": "Item Settings",
+                "content": {
+                    "type": "layout",
+                    "key": "item_settings",
+                    "h_alignment": "right"
+                }
+            },
+            {
+                "title": "Souls Settings",
+                "content": {
+                    "type": "layout",
+                    "key": "soul_settings",
+                    "h_alignment": "right"
+                }
+            },
+            {
+                "title": "Key Rings",
+                "content": {
+                    "type": "layout",
+                    "key": "key_rings",
+                    "h_alignment": "right"
+                }
+            },
+            {
+                "title": "Silver Rupee Pouches",
+                "content": {
+                    "type": "layout",
+                    "key": "silver_rupee_pouches",
+                    "h_alignment": "right"
+                }
+            }
+        ]
+    }
+}

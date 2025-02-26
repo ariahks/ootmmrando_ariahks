@@ -1,0 +1,904 @@
+[
+    {
+        "name": "Blank Dungeon Item",
+        "type": "static",
+        "allow_disabled": false,
+        "img": "images/dungeons/blank.png",
+        "codes": "blank_dungeon_item"
+    },
+    {
+        "name": "Triforce Hunt",
+        "type": "progressive",
+        "allow_disabled": false,
+        "ignore_user_input": true,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/blank.png",
+                "codes": "triforce_hunt_label"
+            },
+            {
+                "img": "images/dungeons/labels/triforce_hunt.png"
+            },
+            {
+                "img": "images/dungeons/labels/triforce_quest.png"
+            }
+        ]
+    },
+    {
+        "name": "Free",
+        "type": "static",
+        "allow_disabled": false,
+        "img": "images/dungeons/labels/free.png",
+        "codes": "free_label"
+    },
+    {
+        "name": "Free Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "free_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Deku Tree",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/deku_tree.png",
+                "codes": "deku_tree_label,setting_mq_deku_tree_unknown"
+            },
+            {
+                "img": "images/dungeons/labels/deku_tree.png",
+                "img_mods": "overlay|images/overlays/va.png",
+                "codes": "deku_tree_label,setting_mq_deku_tree_false",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/dungeons/labels/deku_tree.png",
+                "img_mods": "overlay|images/overlays/mq.png",
+                "codes": "deku_tree_label,setting_mq_deku_tree_true",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Deku Tree Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "deku_tree_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Dodongo's Cavern",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/dodongos_cavern.png",
+                "codes": "dodongos_cavern_label,setting_mq_dodongos_cavern_unknown"
+            },
+            {
+                "img": "images/dungeons/labels/dodongos_cavern.png",
+                "img_mods": "overlay|images/overlays/va.png",
+                "codes": "dodongos_cavern_label,setting_mq_dodongos_cavern_false",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/dungeons/labels/dodongos_cavern.png",
+                "img_mods": "overlay|images/overlays/mq.png",
+                "codes": "dodongos_cavern_label,setting_mq_dodongos_cavern_true",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Dodongo's Cavern Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "dodongos_cavern_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Jabu-Jabu",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/jabu-jabu.png",
+                "codes": "jabu-jabu_label,setting_mq_jabu-jabu_unknown"
+            },
+            {
+                "img": "images/dungeons/labels/jabu-jabu.png",
+                "img_mods": "overlay|images/overlays/va.png",
+                "codes": "jabu-jabu_label,setting_mq_jabu-jabu_false",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/dungeons/labels/jabu-jabu.png",
+                "img_mods": "overlay|images/overlays/mq.png",
+                "codes": "jabu-jabu_label,setting_mq_jabu-jabu_true",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Jabu-Jabu Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "jabu-jabu_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Forest Temple",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/forest_temple.png",
+                "codes": "forest_temple_label,setting_mq_forest_temple_unknown"
+            },
+            {
+                "img": "images/dungeons/labels/forest_temple.png",
+                "img_mods": "overlay|images/overlays/va.png",
+                "codes": "forest_temple_label,setting_mq_forest_temple_false",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/dungeons/labels/forest_temple.png",
+                "img_mods": "overlay|images/overlays/mq.png",
+                "codes": "forest_temple_label,setting_mq_forest_temple_true",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Forest Temple Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "forest_temple_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Fire Temple",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/fire_temple.png",
+                "codes": "fire_temple_label,setting_mq_fire_temple_unknown"
+            },
+            {
+                "img": "images/dungeons/labels/fire_temple.png",
+                "img_mods": "overlay|images/overlays/va.png",
+                "codes": "fire_temple_label,setting_mq_fire_temple_false",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/dungeons/labels/fire_temple.png",
+                "img_mods": "overlay|images/overlays/mq.png",
+                "codes": "fire_temple_label,setting_mq_fire_temple_true",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Fire Temple Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "fire_temple_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Water Temple",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/water_temple.png",
+                "codes": "water_temple_label,setting_mq_water_temple_unknown"
+            },
+            {
+                "img": "images/dungeons/labels/water_temple.png",
+                "img_mods": "overlay|images/overlays/va.png",
+                "codes": "water_temple_label,setting_mq_water_temple_false",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/dungeons/labels/water_temple.png",
+                "img_mods": "overlay|images/overlays/mq.png",
+                "codes": "water_temple_label,setting_mq_water_temple_true",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Water Temple Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "water_temple_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Spirit Temple",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/spirit_temple.png",
+                "codes": "spirit_temple_label,setting_mq_spirit_temple_unknown"
+            },
+            {
+                "img": "images/dungeons/labels/spirit_temple.png",
+                "img_mods": "overlay|images/overlays/va.png",
+                "codes": "spirit_temple_label,setting_mq_spirit_temple_false",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/dungeons/labels/spirit_temple.png",
+                "img_mods": "overlay|images/overlays/mq.png",
+                "codes": "spirit_temple_label,setting_mq_spirit_temple_true",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Spirit Temple Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "spirit_temple_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Shadow Temple",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/shadow_temple.png",
+                "codes": "shadow_temple_label,setting_mq_shadow_temple_unknown"
+            },
+            {
+                "img": "images/dungeons/labels/shadow_temple.png",
+                "img_mods": "overlay|images/overlays/va.png",
+                "codes": "shadow_temple_label,setting_mq_shadow_temple_false",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/dungeons/labels/shadow_temple.png",
+                "img_mods": "overlay|images/overlays/mq.png",
+                "codes": "shadow_temple_label,setting_mq_shadow_temple_true",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Shadow Temple Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "shadow_temple_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Woodfall Temple",
+        "type": "static",
+        "allow_disabled": false,
+        "img": "images/dungeons/labels/woodfall_temple.png",
+        "codes": "woodfall_temple_label"
+    },
+    {
+        "name": "Woodfall Temple Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "woodfall_temple_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Snowhead Temple",
+        "type": "static",
+        "allow_disabled": false,
+        "img": "images/dungeons/labels/snowhead_temple.png",
+        "codes": "snowhead_temple_label"
+    },
+    {
+        "name": "Snowhead Temple Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "snowhead_temple_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Great Bay Temple",
+        "type": "static",
+        "allow_disabled": false,
+        "img": "images/dungeons/labels/great_bay_temple.png",
+        "codes": "great_bay_temple_label"
+    },
+    {
+        "name": "Great Bay Temple Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "great_bay_temple_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    },
+    {
+        "name": "Stone Tower Temple",
+        "type": "static",
+        "allow_disabled": false,
+        "img": "images/dungeons/labels/stone_tower_temple.png",
+        "codes": "stone_tower_temple_label"
+    },
+    {
+        "name": "Stone Tower Temple Reward",
+        "type": "progressive_toggle",
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/dungeons/rewards/unknown.png",
+                "codes": "stone_tower_temple_reward"
+            },
+            {
+                "img": "images/dungeons/rewards/kokiris_emerald.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gorons_ruby.png"
+            },
+            {
+                "img": "images/dungeons/rewards/zoras_sapphire.png"
+            },
+            {
+                "img": "images/dungeons/rewards/forest_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/fire_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/water_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/spirit_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/shadow_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/light_medallion.png"
+            },
+            {
+                "img": "images/dungeons/rewards/odolwas_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gohts_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/gyorgs_remains.png"
+            },
+            {
+                "img": "images/dungeons/rewards/twinmolds_remains.png"
+            }
+        ]
+    }
+]

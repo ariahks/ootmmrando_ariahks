@@ -1,0 +1,1162 @@
+{
+    "dungeons": {
+        "type": "array",
+        "orientation": "vertical",
+        "v_alignment": "top",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "h_alignment": "left",
+                "content": [
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "woodfall_temple_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "woodfall_temple_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "woodfall_temple_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "woodfall_temple_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "woodfall_temple_small_keys",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "woodfall_temple_boss_key",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "item",
+                                "item": "woodfall_temple_stray_fairies",
+                                "h_alignment": "center",
+                                "scale": 0.75,
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "snowhead_temple_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "snowhead_temple_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "snowhead_temple_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "snowhead_temple_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "snowhead_temple_small_keys",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "snowhead_temple_boss_key",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "item",
+                                "item": "snowhead_temple_stray_fairies",
+                                "h_alignment": "center",
+                                "scale": 0.75,
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "great_bay_temple_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "great_bay_temple_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "great_bay_temple_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "great_bay_temple_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "great_bay_temple_small_keys",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "great_bay_temple_boss_key",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "item",
+                                "item": "great_bay_temple_stray_fairies",
+                                "h_alignment": "center",
+                                "scale": 0.75,
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "stone_tower_temple_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "stone_tower_temple_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "stone_tower_temple_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "stone_tower_temple_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "stone_tower_temple_small_keys",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "stone_tower_temple_boss_key",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "item",
+                                "item": "stone_tower_temple_stray_fairies",
+                                "h_alignment": "center",
+                                "scale": 0.75,
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "deku_tree_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "deku_tree_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "deku_tree_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "deku_tree_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "item",
+                                "item": "clock_town_label",
+                                "h_alignment": "center",
+                                "margin": "0,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "clock_town_stray_fairy",
+                                "h_alignment": "center",
+                                "scale": 0.75,
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "dodongos_cavern_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "dodongos_cavern_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "dodongos_cavern_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "dodongos_cavern_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "item",
+                                "item": "dodongos_cavern_sr",
+                                "h_alignment": "center",
+                                "scale": 0.75,
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "jabu-jabu_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "jabu-jabu_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "jabu-jabu_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "jabu-jabu_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "h_alignment": "left",
+                "content": [
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "forest_temple_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "forest_temple_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "forest_temple_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "forest_temple_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "forest_temple_small_keys",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "forest_temple_boss_key",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "fire_temple_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "fire_temple_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "fire_temple_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "fire_temple_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "fire_temple_small_keys",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "fire_temple_boss_key",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "water_temple_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "water_temple_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "water_temple_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "water_temple_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "water_temple_small_keys",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "water_temple_boss_key",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "spirit_temple_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "spirit_temple_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "spirit_temple_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "spirit_temple_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "spirit_temple_small_keys",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "spirit_temple_boss_key",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "spirit_temple_sr_child",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "spirit_temple_sr_sun",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "spirit_temple_sr_lobby",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "spirit_temple_sr_adult",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "spirit_temple_sr_boulders",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "shadow_temple_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "shadow_temple_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "shadow_temple_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "shadow_temple_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "shadow_temple_small_keys",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "shadow_temple_boss_key",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "shadow_temple_sr_scythe",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "shadow_temple_sr_pit",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "shadow_temple_sr_spikes",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "shadow_temple_sr_blades",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "free_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "free_reward",
+                                "width": 32,
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "triforce_hunt_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "triforce_pieces",
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "skeleton_key",
+                                "h_alignment": "center",
+                                "margin": "0,4,0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "magical_rupee",
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "h_alignment": "left",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "h_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "ice_cavern_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "ice_cavern_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "ice_cavern_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "ice_cavern_sr_scythe",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "ice_cavern_sr_block",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "h_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "bottom_of_the_well_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "bottom_of_the_well_map",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "bottom_of_the_well_compass",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "bottom_of_the_well_small_keys",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "item",
+                                "item": "bottom_of_the_well_sr",
+                                "h_alignment": "center",
+                                "scale": 0.75,
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "h_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "thieves_hideout_label",
+                                "h_alignment": "center",
+                                "margin": "0,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "thieves_hideout_small_keys",
+                                "h_alignment": "center",
+                                "scale": 0.75,
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "h_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "gerudo_training_ground_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "gerudo_training_ground_small_keys",
+                                "h_alignment": "center",
+                                "scale": 0.75,
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "gerudo_training_ground_sr_slopes",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "gerudo_training_ground_sr_lava",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "gerudo_training_ground_sr_water",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "h_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "treasure_chest_game_label",
+                                "h_alignment": "center",
+                                "margin": "0,2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "treasure_chest_game_small_keys",
+                                "h_alignment": "center",
+                                "scale": 0.75,
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "h_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "ganons_castle_label",
+                                "h_alignment": "center",
+                                "margin": "2,2"
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "ganons_castle_small_keys",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "ganons_castle_boss_key",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "ganons_castle_sr_forest",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "ganons_castle_sr_fire",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "ganons_castle_sr_water",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "ganons_castle_sr_spirit",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "ganons_castle_sr_shadow",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "ganons_castle_sr_light",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "tradequests": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "center",
+                        "item_size": 32,
+                        "margin": "0,0",
+                        "item_margin": "3,4",
+                        "rows": [
+                            [ "pocket_cucco", "cojiro", "odd_mushroom", "odd_potion", "poachers_saw", "", "zeldas_letter" ],
+                            [ "broken_goron_sword", "prescription", "eyeball_frog", "eye_drops", "claim_check", "", "chicken" ],
+                            [ "moons_tear", "land_title_deed", "swamp_title_deed", "mountain_title_deed", "ocean_title_deed", "", "" ],
+                            [ "", "room_key", "letter_to_kafei", "pendant_of_memories", "special_delivery_to_mama", "", "eggs" ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

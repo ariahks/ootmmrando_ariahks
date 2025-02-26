@@ -1,0 +1,506 @@
+[
+    {
+        "type": "static",
+        "img": "images/options/blank.png",
+        "codes": "setting_blank"
+    },
+    {
+        "name": "Triforce Quest",
+        "type": "toggle",
+        "img": "images/options/triforce_quest.png",
+        "codes": "setting_triforce_quest",
+        "loop": true
+    },
+    {
+        "name": "Triforce Pieces Needed",
+        "type": "consumable",
+        "img": "images/options/triforce_pieces.png",
+        "codes": "setting_triforce_pieces_needed",
+        "max_quantity": 999,
+        "loop": true
+    },
+    {
+        "name": "Red Coin Count",
+        "type": "consumable",
+        "img": "images/options/red_coins.png",
+        "codes": "setting_red_coin_count",
+        "max_quantity": 999,
+        "loop": true
+    },
+    {
+        "name": "Yellow Coin Count",
+        "type": "consumable",
+        "img": "images/options/yellow_coins.png",
+        "codes": "setting_yellow_coin_count",
+        "max_quantity": 999,
+        "loop": true
+    },
+    {
+        "name": "Green Coin Count",
+        "type": "consumable",
+        "img": "images/options/green_coins.png",
+        "codes": "setting_green_coin_count",
+        "max_quantity": 999,
+        "loop": true
+    },
+    {
+        "name": "Blue Coin Count",
+        "type": "consumable",
+        "img": "images/options/blue_coins.png",
+        "codes": "setting_blue_coin_count",
+        "max_quantity": 999,
+        "loop": true
+    },
+    {
+        "name": "Max Wallet",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/options/max_wallet_giant.png",
+                "codes": "setting_max_wallet"
+            },
+            {
+                "img": "images/options/max_wallet_colossal.png"
+            },
+            {
+                "img": "images/options/max_wallet_bottomless.png"
+            }
+        ]
+    },
+    {
+        "name": "Progressive Knife and Biggoron",
+        "type": "toggle",
+        "img": "images/options/progressive_knife_and_biggoron.png",
+        "codes": "setting_progressive_knife_and_biggoron",
+        "loop": true
+    },
+    {
+        "name": "Full Lullaby Only",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/options/progressive_lullaby.png",
+                "codes": "setting_full_lullaby_only"
+            },
+            {
+                "img": "images/options/full_lullaby_only.png"
+            }
+        ]
+    },
+    {
+        "name": "Use OoT/MM Sprites",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/options/use_oot_sprites.png",
+                "codes": "setting_use_oot_mm_sprites"
+            },
+            {
+                "img": "images/options/use_mm_sprites.png"
+            }
+        ]
+    },
+    {
+        "name": "OoT Dungeons",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/options/oot_dungeons_vanilla.png",
+                "codes": "setting_oot_dungeons"
+            },
+            {
+                "img": "images/options/oot_dungeons_master_quest.png"
+            },
+            {
+                "img": "images/options/oot_dungeons_mix.png"
+            }
+        ]
+    },
+    {
+        "name": "Shuffle C-Buttons",
+        "type": "toggle",
+        "img": "images/options/shuffle_c_buttons.png",
+        "codes": "setting_shuffle_c_buttons",
+        "loop": true
+    },
+    {
+        "name": "Dungeon Maps and Compasses",
+        "type": "toggle",
+        "img": "images/options/dungeon_maps_and_compasses.png",
+        "codes": "setting_dungeon_maps_and_compasses",
+        "loop": true
+    },
+    {
+        "name": "Dungeon Small Keys",
+        "type": "toggle",
+        "img": "images/options/dungeon_small_keys.png",
+        "codes": "setting_dungeon_small_keys",
+        "loop": true
+    },
+    {
+        "name": "Thieves' Hideout Keys",
+        "type": "toggle",
+        "img": "images/options/thieves_hideout_keys.png",
+        "codes": "setting_thieves_hideout_keys",
+        "loop": true
+    },
+    {
+        "name": "Treasure Chest Game Keys",
+        "type": "toggle",
+        "img": "images/options/treasure_chest_game_keys.png",
+        "codes": "setting_treasure_chest_game_keys",
+        "loop": true
+    },
+    {
+        "name": "Skeleton Key",
+        "type": "toggle",
+        "img": "images/options/skeleton_key.png",
+        "codes": "setting_skeleton_key",
+        "loop": true
+    },
+    {
+        "name": "Dungeon Boss Keys",
+        "type": "toggle",
+        "img": "images/options/dungeon_boss_keys.png",
+        "codes": "setting_dungeon_boss_keys",
+        "loop": true
+    },
+    {
+        "name": "Ganon Boss Key",
+        "type": "toggle",
+        "img": "images/options/ganon_boss_key.png",
+        "codes": "setting_ganon_boss_key",
+        "loop": true
+    },
+    {
+        "name": "Town Stray Fairy",
+        "type": "toggle",
+        "img": "images/options/town_stray_fairy.png",
+        "codes": "setting_town_stray_fairy",
+        "loop": true
+    },
+    {
+        "name": "Dungeon Stray Fairies",
+        "type": "toggle",
+        "img": "images/options/dungeon_stray_fairies.png",
+        "codes": "setting_dungeon_stray_fairies",
+        "loop": true
+    },
+    {
+        "name": "Skulltula Tokens",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/options/skulltulas_off.png",
+                "img_mods": "@disabled",
+                "codes": "setting_skulltula_tokens"
+            },
+            {
+                "img": "images/options/skulltulas_gold.png"
+            },
+            {
+                "img": "images/options/skulltulas_mm_only.png"
+            },
+            {
+                "img": "images/options/skulltulas_all.png"
+            }
+        ]
+    },
+    {
+        "name": "Tingle Maps",
+        "type": "toggle",
+        "img": "images/options/tingle_maps.png",
+        "codes": "setting_tingle_maps",
+        "loop": true
+    },
+    {
+        "name": "Clocks",
+        "type": "toggle",
+        "img": "images/options/clocks.png",
+        "codes": "setting_clocks",
+        "loop": true
+    },
+    {
+        "name": "Eggs",
+        "type": "toggle",
+        "img": "images/options/eggs.png",
+        "codes": "setting_eggs",   
+        "loop": true
+    },
+    {
+        "name": "Skip Child Zelda",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/options/skip_child_zelda.png",
+                "img_mods": "@disabled",
+                "codes": "setting_skip_child_zelda"
+            },
+            {
+                "img": "images/options/skip_child_zelda.png"
+            },
+            {
+                "img": "images/options/skip_child_zelda_and_open_gate.png"
+            }
+        ]
+    },
+    {
+        "name": "Owl Statues",
+        "type": "toggle",
+        "img": "images/options/owl_statues.png",
+        "codes": "setting_owl_statues",
+        "loop": true
+    },
+    {
+        "name": "Silver Rupees",
+        "type": "toggle",
+        "img": "images/options/silver_rupees.png",
+        "codes": "setting_silver_rupees",
+        "loop": true
+    },
+    {
+        "name": "Magical Rupee",
+        "type": "toggle",
+        "img": "images/options/magical_rupee.png",
+        "codes": "setting_magical_rupee",
+        "loop": true
+    },
+
+    {
+        "name": "Key Rings",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/options/key_rings/off.png",
+                "img_mods": "@disabled",
+                "codes": "setting_key_rings"
+            },
+            {
+                "img": "images/options/key_rings/some.png"
+            },
+            {
+                "img": "images/options/key_rings/all.png"
+            }
+        ]
+    },
+    {
+        "name": "Woodfall Temple Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/woodfall_temple.png",
+        "codes": "setting_key_ring_woodfall_temple",
+        "loop": true
+    },
+    {
+        "name": "Snowhead Temple Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/snowhead_temple.png",
+        "codes": "setting_key_ring_snowhead_temple",
+        "loop": true
+    },
+    {
+        "name": "Great Bay Temple Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/great_bay_temple.png",
+        "codes": "setting_key_ring_great_bay_temple",
+        "loop": true
+    },
+    {
+        "name": "Stone Tower Temple Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/stone_tower_temple.png",
+        "codes": "setting_key_ring_stone_tower_temple",
+        "loop": true
+    },
+    {
+        "name": "Forest Temple Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/forest_temple.png",
+        "codes": "setting_key_ring_forest_temple",
+        "loop": true
+    },
+    {
+        "name": "Fire Temple Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/fire_temple.png",
+        "codes": "setting_key_ring_fire_temple",
+        "loop": true
+    },
+    {
+        "name": "Water Temple Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/water_temple.png",
+        "codes": "setting_key_ring_water_temple",
+        "loop": true
+    },
+    {
+        "name": "Spirit Temple Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/spirit_temple.png",
+        "codes": "setting_key_ring_spirit_temple",
+        "loop": true
+    },
+    {
+        "name": "Shadow Temple Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/shadow_temple.png",
+        "codes": "setting_key_ring_shadow_temple",
+        "loop": true
+    },
+    {
+        "name": "Bottom of the Well Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/bottom_of_the_well.png",
+        "codes": "setting_key_ring_bottom_of_the_well",
+        "loop": true
+    },
+    {
+        "name": "Gerudo Training Grounds Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/gerudo_training_grounds.png",
+        "codes": "setting_key_ring_gerudo_training_grounds",
+        "loop": true
+    },
+    {
+        "name": "Ganon's Castle Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/ganons_castle.png",
+        "codes": "setting_key_ring_ganons_castle",
+        "loop": true
+    },
+    {
+        "name": "Thieves' Hideout Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/thieves_hideout.png",
+        "codes": "setting_key_ring_thieves_hideout",
+        "loop": true
+    },
+    {
+        "name": "Treasure Chest Game Key Ring",
+        "type": "toggle",
+        "img": "images/options/key_rings/treasure_chest_game.png",
+        "codes": "setting_key_ring_treasure_chest_game",
+        "loop": true
+    },
+
+    {
+        "name": "Silver Rupee Pouches",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/options/silver_rupee_pouches/off.png",
+                "img_mods": "@disabled",
+                "codes": "setting_silver_rupee_pouches"
+            },
+            {
+                "img": "images/options/silver_rupee_pouches/some.png"
+            },
+            {
+                "img": "images/options/silver_rupee_pouches/all.png"
+            }
+        ]
+    },
+    {
+        "name": "Dodongo's Cavern Silver Rupee Pouch",
+        "type": "toggle",
+        "img": "images/options/silver_rupee_pouches/dodongos_cavern.png",
+        "codes": "setting_srpouch_dodongos_cavern",
+        "loop": true
+    },
+    {
+        "name": "Spirit Temple Silver Rupee Pouch",
+        "type": "toggle",
+        "img": "images/options/silver_rupee_pouches/spirit_temple.png",
+        "codes": "setting_srpouch_spirit_temple",
+        "loop": true
+    },
+    {
+        "name": "Shadow Temple Silver Rupee Pouch",
+        "type": "toggle",
+        "img": "images/options/silver_rupee_pouches/shadow_temple.png",
+        "codes": "setting_srpouch_shadow_temple",
+        "loop": true
+    },
+    {
+        "name": "Ice Cavern Silver Rupee Pouch",
+        "type": "toggle",
+        "img": "images/options/silver_rupee_pouches/ice_cavern.png",
+        "codes": "setting_srpouch_ice_cavern",
+        "loop": true
+    },
+    {
+        "name": "Bottom of the Well Silver Rupee Pouch",
+        "type": "toggle",
+        "img": "images/options/silver_rupee_pouches/bottom_of_the_well.png",
+        "codes": "setting_srpouch_bottom_of_the_well",
+        "loop": true
+    },
+    {
+        "name": "Gerudo Training Ground Silver Rupee Pouch",
+        "type": "toggle",
+        "img": "images/options/silver_rupee_pouches/gerudo_training_ground.png",
+        "codes": "setting_srpouch_gerudo_training_ground",
+        "loop": true
+    },
+    {
+        "name": "Ganon's Castle Silver Rupee Pouch",
+        "type": "toggle",
+        "img": "images/options/silver_rupee_pouches/ganons_castle.png",
+        "codes": "setting_srpouch_ganons_castle",
+        "loop": true
+    },
+    {
+        "name": "Shuffle Boss Souls",
+        "type": "toggle",
+        "img": "images/options/souls/boss.png",
+        "codes": "setting_souls_boss",
+        "initial_active_state": true,
+        "loop": true
+    },
+    {
+        "name": "Shuffle Enemy Souls",
+        "type": "toggle",
+        "img": "images/options/souls/enemy.png",
+        "codes": "setting_souls_enemy",
+        "initial_active_state": true,
+        "loop": true
+    },
+    {
+        "name": "Shuffle NPC Souls",
+        "type": "toggle",
+        "img": "images/options/souls/npc.png",
+        "codes": "setting_souls_npc",
+        "initial_active_state": true,
+        "loop": true
+    },
+    {
+        "name": "Shuffle Misc. Souls",
+        "type": "toggle",
+        "img": "images/options/souls/misc.png",
+        "codes": "setting_souls_misc",
+        "initial_active_state": true,
+        "loop": true
+    },
+    {
+        "name": "Label Souls by Game",
+        "type": "toggle",
+        "img": "images/options/souls/label_souls_by_game.png",
+        "codes": "setting_souls_label_by_game",
+        "loop": true
+    }
+]

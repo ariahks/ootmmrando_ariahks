@@ -1,0 +1,174 @@
+[
+    {
+        "name": "Ocarina",
+        "type": "progressive",
+        "stages": [
+            {
+                "img": "images/items/fairy_ocarina.png",
+                "codes": "ocarina"
+            },
+            {
+                "img": "images/items/ocarina_of_time.png"
+            }
+        ]
+    },
+    {
+        "name": "Deku Sticks",
+        "type": "consumable",
+        "img": "images/items/deku_stick.png",
+        "codes": "deku_sticks",
+        "max_quantity": 30
+    },
+    {
+        "name": "Deku Nuts",
+        "type": "consumable",
+        "img": "images/items/deku_nut.png",
+        "codes": "deku_nuts",
+        "max_quantity": 40
+    },
+    {
+        "name": "Fairy Slingshot",
+        "type": "consumable",
+        "img": "images/items/fairy_slingshot.png",
+        "codes": "fairy_slingshot",
+        "max_quantity": 50
+    },
+    {
+        "name": "Fire Arrows",
+        "type": "toggle",
+        "img": "images/items/fire_arrows.png",
+        "codes": "fire_arrows"
+    },
+    {
+        "name": "Ice Arrows",
+        "type": "toggle",
+        "img": "images/items/ice_arrows.png",
+        "codes": "ice_arrows"
+    },
+    {
+        "name": "Light Arrows",
+        "type": "toggle",
+        "img": "images/items/light_arrows.png",
+        "codes": "light_arrows"
+    },
+    {
+        "name": "Bombs",
+        "type": "consumable",
+        "img": "images/items/bomb.png",
+        "codes": "bombs",
+        "max_quantity": 40
+    },
+    {
+        "name": "Bombchus",
+        "type": "toggle",
+        "img": "images/items/bombchu.png",
+        "codes": "bombchus"
+    },
+    {
+        "name": "Boomerang",
+        "type": "toggle",
+        "img": "images/items/boomerang.png",
+        "codes": "boomerang"
+    },
+    {
+        "name": "Lens of Truth",
+        "type": "toggle",
+        "img": "images/items/lens_of_truth.png",
+        "codes": "lens_of_truth"
+    },
+    {
+        "name": "Megaton Hammer",
+        "type": "toggle",
+        "img": "images/items/megaton_hammer.png",
+        "codes": "megaton_hammer"
+    },
+    {
+        "name": "Dins Fire",
+        "type": "toggle",
+        "img": "images/items/dins_fire.png",
+        "codes": "dins_fire"
+    },
+    {
+        "name": "Powder Keg",
+        "type": "toggle",
+        "img": "images/items/powder_keg.png",
+        "codes": "powder_keg"
+    },
+    {
+        "name": "Pictograph Box",
+        "type": "toggle",
+        "img": "images/items/pictograph_box.png",
+        "codes": "pictograph_box"
+    },
+    {
+        "name": "Magic Beans (OoT)",
+        "type": "toggle",
+        "img": "images/items/magic_beans_oot.png",
+        "codes": "magic_beans_oot"
+    },
+    {
+        "name": "Magic Beans (MM)",
+        "type": "toggle",
+        "img": "images/items/magic_beans_mm.png",
+        "codes": "magic_beans_mm"
+    },
+    {
+        "name": "Great Fairy's Sword",
+        "type": "toggle",
+        "img": "images/items/great_fairys_sword.png",
+        "codes": "great_fairys_sword"
+    },
+    {
+        "name": "Farore's Wind",
+        "type": "toggle",
+        "img": "images/items/farores_wind.png",
+        "codes": "farores_wind"
+    },
+    {
+        "name": "Nayru's Love",
+        "type": "toggle",
+        "img": "images/items/nayrus_love.png",
+        "codes": "nayrus_love"
+    },
+
+    {
+        "name": "Bottles (OoT) Label",
+        "type": "static",
+        "img": "images/items/bottles/label_oot.png",
+        "codes": "bottles_oot_label"
+    },
+    {
+        "name": "Bottles (OoT)",
+        "type": "consumable",
+        "img": "images/items/bottles/empty.png",
+        "img_mods": "overlay|images/overlays/oot.png",
+        "codes": "bottles_oot",
+        "max_quantity": 4
+    },
+    {
+        "name": "Ruto's Letter",
+        "type": "toggle",
+        "img": "images/items/bottles/rutos_letter.png",
+        "codes": "rutos_letter"
+    },
+    {
+        "name": "Bottles (MM) Label",
+        "type": "static",
+        "img": "images/items/bottles/label_mm.png",
+        "codes": "bottles_mm_label"
+    },
+    {
+        "name": "Bottles (MM)",
+        "type": "consumable",
+        "img": "images/items/bottles/empty.png",
+        "img_mods": "overlay|images/overlays/mm.png",
+        "codes": "bottles_mm",
+        "max_quantity": 6
+    },
+    {
+        "name": "Gold Dust",
+        "type": "toggle",
+        "img": "images/items/bottles/gold_dust.png",
+        "codes": "gold_dust"
+    }
+]

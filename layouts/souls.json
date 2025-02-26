@@ -1,0 +1,898 @@
+{
+    "souls": {
+        "type": "array",
+        "width": 266,
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "item",
+                "item": "label_boss_souls",
+                "width": 80,
+                "h_alignment": "center",
+                "margin": "0,0"
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "content": [
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_queen_gohma",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_king_dodongo",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_barinade",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_odolwa",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_goht",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_gyorg",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_twinmold",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_phantom_ganon",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_volvagia",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_morpha",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_twinrova",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_bongo_bongo",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_filler_boss",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_igos",
+                                "margin": "0,0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "item": "label_enemy_souls",
+                "width": 88,
+                "h_alignment": "center",
+                "margin": "0,0"
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "content": [
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_anubis",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_armos",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_baby_dodongos",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_bad_bats",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_beamos",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_bio_babas",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_biris_baris",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_boes",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_bubbles",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_captain_keeta",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_chuchus",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_dark_link",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_dead_hands",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_deep_pythons",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_deku_babas",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_deku_scrubs",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_dexihands",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_dodongos",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_dragonflies",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_eenoes",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_eyegores",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_fighting_thieves",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_flare_dancers",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_floormasters",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_flying_pots",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_freezards",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_garo",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_gekkos",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_gohma_larvaes",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_gomess",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_guays",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_hiploops",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_iron_knuckles",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_jabu_jabus_parasites",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_keese",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_leevers",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_like_likes",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_lizalfos_dinolfos",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_moblins",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_nejirons",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_octoroks",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_peahats",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_real_bombchu",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_redeads_gibdos",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_shaboms",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_shell_blades",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_skull_kids_oot",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_skullfish_mm",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_skulltulas",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_skullwalltulas",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_snappers",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_spikes",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_stalchildren",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_stalfos_oot",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_stingers",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_tailpasarans",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_takkuri",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_tektites",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_torch_slugs",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_wallmasters",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_warts",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_wizzrobes",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_wolfos",
+                                "margin": "0,0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "item": "label_npc_souls",
+                "width": 72,
+                "h_alignment": "center",
+                "margin": "0,0"
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "content": [
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_biggoron",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_blacksmiths",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_bombchu_bowling_chest_game_lady",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_carpenters",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_citizens",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_composer_bros",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_cucco_lady_anju",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_dampe",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_darunia",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_fishing_pond_trading_post_owner",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_gorons",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_guru_guru",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_honey_darling",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_hylian_guard",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_ingo_gorman_bros",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_kafei",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_keaton",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_king_zora",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_kokiri",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_kokiri_shopkeeper",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_koume_and_kotake",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_madame_aroma_mm",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_malon_romani_cremia",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_mayor_dotour",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_medigoron_keg_trial_goron",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_mido",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_moon_children",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_playground_scrubs",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_poe_collector_ghost_hut_owner",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_potion_shopkeeper",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_rooftop_man_part_timer",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_ruto_lulu",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_saria",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_sheik",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_talon_mr_barten",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_astronomer",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_bazaar_swamp_archery_owner",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_bean_salesman",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_beggar_banker",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_bombchu_bomb_shop_owner",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_carpet_man_swordsman",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_chest_game_owner_fisherman",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_deku_butler",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_deku_king",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_deku_princess",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_dog_lady",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_goron_child_baby",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_goron_elder",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_goron_shopkeeper",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_graveyard_kid_bombers",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_old_hag_anjus_grandmother",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_patrolling_thieves_and_their_chief",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_punk_kid_grog",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_scientist",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_shooting_gallery_town_archery_owner",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_zora_musicians",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_zora_shopkeeper",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_tingle",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_toilet_hand",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_toto_mm",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_tourist_center_owner",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_zelda",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_zoras",
+                                "margin": "0,0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "item": "label_misc_souls",
+                "width": 84,
+                "h_alignment": "center",
+                "margin": "0,0"
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "content": [
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "h_alignment": "center",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_business_scrubs",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_gold_skulltulas",
+                                "margin": "0,0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

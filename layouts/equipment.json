@@ -1,0 +1,95 @@
+{
+    "equipment": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_size": 32,
+                        "margin": "0,0",
+                        "item_margin": "3,4",
+                        "rows": [
+                            [ "stone_of_agony", "heart_containers", "kokiri_sword",  "master_sword", "biggoron_sword" ],
+                            [ "gerudo_membership_card", "heart_pieces", "deku_shield", "hylian_heros_shield",  "mirror_shield" ],
+                            [ "strength", "double_defense", "kokiri_tunic", "goron_tunic", "zora_tunic" ],
+                            [ "scale", "magic", "kokiri_boots",     "iron_boots", "hover_boots" ]
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "v_alignment": "top",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "itemgrid",
+                                "h_alignment": "left",
+                                "item_size": 32,
+                                "margin": "0,0",
+                                "item_margin": "3,4",
+                                "rows": [
+                                    [ "great_spin_attack", "gold_skulltula_tokens" ],
+                                    [ "bombers_notebook", "swamp_skulltula_tokens"],
+                                    [ "wallet", "ocean_skulltula_tokens"]
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "vertical",
+                                "content": [
+                                    {
+                                        "type": "array",
+                                        "orientation": "horizontal",
+                                        "content": [
+                                            {
+                                                "type": "item",
+                                                "margin": "3,2,0,0",
+                                                "item": "tingle_map_clock_town"
+                                            },
+                                            {
+                                                "type": "item",
+                                                "margin": "2,2,0,0",
+                                                "item": "tingle_map_woodfall"
+                                            },
+                                            {
+                                                "type": "item",
+                                                "margin": "2,2,0,0",
+                                                "item": "tingle_map_snowhead"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "array",
+                                        "orientation": "horizontal",
+                                        "content": [
+                                            {
+                                                "type": "item",
+                                                "margin": "3,1,0,0",
+                                                "item": "tingle_map_romani_ranch"
+                                            },
+                                            {
+                                                "type": "item",
+                                                "margin": "2,1,0,0",
+                                                "item": "tingle_map_great_bay"
+                                            },
+                                            {
+                                                "type": "item",
+                                                "margin": "2,1,0,0",
+                                                "item": "tingle_map_stone_tower"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "quest": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "h_alignment": "center",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "v_alignment": "center",
+                        "item_size": 32,
+                        "margin": "0,0,12,0",
+                        "item_margin": "3,4",
+                        "rows": [
+                            ["odolwas_remains"],
+                            ["gyorgs_remains"]
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "shadow_medallion",
+                                "margin": "0,17,0,0",
+                                "scale": 1.333
+                            },
+                            {
+                                "type": "item",
+                                "item": "spirit_medallion",
+                                "margin": "0,2,0,0",
+                                "scale": 1.333
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "light_medallion",
+                                "scale": 1.333
+                            },
+                            {
+                                "type": "item",
+                                "item": "triforce_pieces",
+                                "margin": "0,0,0,0",
+                                "scale": 1
+                            },
+                            {
+                                "type": "item",
+                                "item": "water_medallion",
+                                "scale": 1.333
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "forest_medallion",
+                                "margin": "0,17,0,0",
+                                "scale": 1.333
+                            },
+                            {
+                                "type": "item",
+                                "item": "fire_medallion",
+                                "margin": "0,2,0,0",
+                                "scale": 1.333
+                            }
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "v_alignment": "center",
+                        "item_size": 32,
+                        "margin": "12,0,0,0",
+                        "item_margin": "3,4",
+                        "rows": [
+                            ["gohts_remains"],
+                            ["twinmolds_remains"]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": 32,
+                "margin": "0,2,0,0",
+                "item_margin": "3,4",
+                "rows": [
+                    [ "red_coins", "yellow_coins", "kokiris_emerald", "gorons_ruby", "zoras_sapphire", "green_coins", "blue_coins" ]
+                ]
+            }
+        ]
+    }
+}

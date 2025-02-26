@@ -1,0 +1,15 @@
+{
+    "name": "OoTMM Randomizer Item Tracker",
+    "game_name": "OOTMM Randomizer",
+    "package_version": "1.0.0",
+    "package_uid": "ootmmrando_ariahks",
+    "author": "AriahKS",
+    "variants": {
+        "Shared_Items": {
+            "display_name": "Shared Items"
+        },
+        "Shared_Items_Souls": {
+            "display_name": "Shared Items w/ Souls"
+        }
+    }
+}

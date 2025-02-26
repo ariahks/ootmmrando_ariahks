@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Skull Mask",
+        "type": "toggle",
+        "img": "images/masks/skull_mask.png",
+        "codes": "skull_mask"
+    },
+    {
+        "name": "Spooky Mask",
+        "type": "toggle",
+        "img": "images/masks/spooky_mask.png",
+        "codes": "spooky_mask"
+    },
+    {
+        "name": "Gerudo Mask",
+        "type": "toggle",
+        "img": "images/masks/gerudo_mask.png",
+        "codes": "gerudo_mask"
+    },
+    {
+        "name": "Postman's Hat",
+        "type": "toggle",
+        "img": "images/masks/postmans_hat.png",
+        "codes": "postmans_hat"
+    },
+    {
+        "name": "Keaton Mask",
+        "type": "toggle",
+        "img": "images/masks/keaton_mask.png",
+        "codes": "keaton_mask"
+    },
+    {
+        "name": "Romani's Mask",
+        "type": "toggle",
+        "img": "images/masks/romanis_mask.png",
+        "codes": "romanis_mask"
+    },
+    {
+        "name": "Kamaro's Mask",
+        "type": "toggle",
+        "img": "images/masks/kamaros_mask.png",
+        "codes": "kamaros_mask"
+    },
+    {
+        "name": "All-Night Mask",
+        "type": "toggle",
+        "img": "images/masks/allnight_mask.png",
+        "codes": "allnight_mask"
+    },
+    {
+        "name": "Bremen Mask",
+        "type": "toggle",
+        "img": "images/masks/bremen_mask.png",
+        "codes": "bremen_mask"
+    },
+    {
+        "name": "Circus Leader's Mask",
+        "type": "toggle",
+        "img": "images/masks/circus_leaders_mask.png",
+        "codes": "circus_leaders_mask"
+    },
+    {
+        "name": "Gibdo Mask",
+        "type": "toggle",
+        "img": "images/masks/gibdo_mask.png",
+        "codes": "gibdo_mask"
+    },
+    {
+        "name": "Blast Mask",
+        "type": "toggle",
+        "img": "images/masks/blast_mask.png",
+        "codes": "blast_mask"
+    },
+    {
+        "name": "Bunny Hood",
+        "type": "toggle",
+        "img": "images/masks/bunny_hood.png",
+        "codes": "bunny_hood"
+    },
+    {
+        "name": "Kafei's Mask",
+        "type": "toggle",
+        "img": "images/masks/kafeis_mask.png",
+        "codes": "kafeis_mask"
+    },
+    {
+        "name": "Garo's Mask",
+        "type": "toggle",
+        "img": "images/masks/garos_mask.png",
+        "codes": "garos_mask"
+    },
+    {
+        "name": "Stone Mask",
+        "type": "toggle",
+        "img": "images/masks/stone_mask.png",
+        "codes": "stone_mask"
+    },
+    {
+        "name": "Don Gero's Mask",
+        "type": "toggle",
+        "img": "images/masks/don_geros_mask.png",
+        "codes": "don_geros_mask"
+    },
+    {
+        "name": "Couple's Mask",
+        "type": "toggle",
+        "img": "images/masks/couples_mask.png",
+        "codes": "couples_mask"
+    },
+    {
+        "name": "Captain's Hat",
+        "type": "toggle",
+        "img": "images/masks/captains_hat.png",
+        "codes": "captains_hat"
+    },
+    {
+        "name": "Great Fairy's Mask",
+        "type": "toggle",
+        "img": "images/masks/great_fairys_mask.png",
+        "codes": "great_fairys_mask"
+    },
+    {
+        "name": "Mask of Scents",
+        "type": "toggle",
+        "img": "images/masks/mask_of_scents.png",
+        "codes": "mask_of_scents"
+    },
+    {
+        "name": "Mask of Truth",
+        "type": "toggle",
+        "img": "images/masks/mask_of_truth.png",
+        "codes": "mask_of_truth"
+    },
+    {
+        "name": "Giant's Mask",
+        "type": "toggle",
+        "img": "images/masks/giants_mask.png",
+        "codes": "giants_mask"
+    },
+    {
+        "name": "Deku Mask",
+        "type": "toggle",
+        "img": "images/masks/deku_mask.png",
+        "codes": "deku_mask"
+    },
+    {
+        "name": "Goron Mask",
+        "type": "toggle",
+        "img": "images/masks/goron_mask.png",
+        "codes": "goron_mask"
+    },
+    {
+        "name": "Zora Mask",
+        "type": "toggle",
+        "img": "images/masks/zora_mask.png",
+        "codes": "zora_mask"
+    },
+    {
+        "name": "Fierce Deity's Mask",
+        "type": "toggle",
+        "img": "images/masks/fierce_deitys_mask.png",
+        "codes": "fierce_deitys_mask"
+    }
+]

@@ -1,0 +1,180 @@
+{
+    "items": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": 32,
+                "margin": "0,0",
+                "item_margin": "3,4",
+                "rows": [
+                    [ "deku_sticks", "deku_nuts", "fairy_heros_bow", "fire_arrows", "ice_arrows",  "light_arrows", "dins_fire" ],
+                    [ "bombs", "bombchus", "fairy_slingshot", "boomerang", "hookshot", "megaton_hammer", "farores_wind" ],
+                    [ "powder_keg", "pictograph_box", "lens_of_truth", "magic_beans_oot", "magic_beans_mm", "great_fairys_sword", "nayrus_love"]
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "bottles_oot",
+                        "margin": "3,3,3,5"
+                    },
+                    {
+                        "type": "item",
+                        "item": "rutos_letter",
+                        "margin": "3,3,3,5"
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "content": [
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "owl_clock_town",
+                                        "margin": "0,2,0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "owl_southern_swamp",
+                                        "margin": "1,2,0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "owl_mountain_village",
+                                        "margin": "1,2,0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "owl_great_bay_coast",
+                                        "margin": "1,2,0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "owl_ikana_canyon",
+                                        "margin": "1,2,0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "owl_milk_road",
+                                        "margin": "0,1,0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "owl_woodfall",
+                                        "margin": "1,1,0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "owl_snowhead",
+                                        "margin": "1,1,0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "owl_zora_cape",
+                                        "margin": "1,1,0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "owl_stone_tower",
+                                        "margin": "1,1,0,0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "item",
+                        "item": "gold_dust",
+                        "margin": "3,3,3,5"
+                    },
+                    {
+                        "type": "item",
+                        "item": "bottles_mm",
+                        "margin": "3,3,3,5"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "h_alignment": "center",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "1st_day_clock",
+                        "margin": "0,0,0,0"
+                    },
+                    {
+                        "type": "item",
+                        "item": "1st_night_clock",
+                        "margin": "0,0,0,0"
+                    },
+                    {
+                        "type": "item",
+                        "item": "2nd_day_clock",
+                        "margin": "16,0,0,0"
+                    },
+                    {
+                        "type": "item",
+                        "item": "2nd_night_clock",
+                        "margin": "0,0,0,0"
+                    },
+                    {
+                        "type": "item",
+                        "item": "3rd_day_clock",
+                        "margin": "16,0,0,0"
+                    },
+                    {
+                        "type": "item",
+                        "item": "3rd_night_clock",
+                        "margin": "0,0,0,0"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "h_alignment": "center",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "red_coins",
+                        "margin": "0,0,0,0"
+                    },
+                    {
+                        "type": "item",
+                        "item": "yellow_coins",
+                        "margin": "0,0,0,0"
+                    },
+                    {
+                        "type": "item",
+                        "item": "green_coins",
+                        "margin": "0,0,0,0"
+                    },
+                    {
+                        "type": "item",
+                        "item": "blue_coins",
+                        "margin": "0,0,0,0"
+                    }
+                ]
+            }
+        ]
+    }
+}

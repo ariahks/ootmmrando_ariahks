@@ -1,0 +1,27 @@
+{
+    "masks": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "center",
+                        "item_size": 32,
+                        "margin": "0,0",
+                        "item_margin": "3,4",
+                        "rows": [
+                            [ "skull_mask",  "postmans_hat", "allnight_mask",       "blast_mask",  "stone_mask",     "great_fairys_mask", "deku_mask" ],
+                            [ "spooky_mask", "keaton_mask",  "bremen_mask",         "bunny_hood",  "don_geros_mask", "mask_of_scents",    "goron_mask" ],
+                            [ "gerudo_mask", "romanis_mask", "circus_leaders_mask", "kafeis_mask", "couples_mask",   "mask_of_truth",     "zora_mask"],
+                            [ "",            "kamaros_mask", "gibdo_mask",          "garos_mask",  "captains_hat",   "giants_mask",       "fierce_deitys_mask"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

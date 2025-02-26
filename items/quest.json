@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Kokiri's Emerald",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/kokiris_emerald.png",
+        "codes": "kokiris_emerald"
+    },
+    {
+        "name": "Goron's Ruby",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/gorons_ruby.png",
+        "codes": "gorons_ruby"
+    },
+    {
+        "name": "Zora's Sapphire",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/zoras_sapphire.png",
+        "codes": "zoras_sapphire"
+    },
+    {
+        "name": "Light Medallion",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/light_medallion.png",
+        "codes": "light_medallion"
+    },
+    {
+        "name": "Forest Medallion",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/forest_medallion.png",
+        "codes": "forest_medallion"
+    },
+    {
+        "name": "Fire Medallion",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/fire_medallion.png",
+        "codes": "fire_medallion"
+    },
+    {
+        "name": "Water Medallion",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/water_medallion.png",
+        "codes": "water_medallion"
+    },
+    {
+        "name": "Spirit Medallion",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/spirit_medallion.png",
+        "codes": "spirit_medallion"
+    },
+    {
+        "name": "Shadow Medallion",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/shadow_medallion.png",
+        "codes": "shadow_medallion"
+    },
+    {
+        "name": "Odolwa's Remains",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/odolwas_remains.png",
+        "codes": "odolwas_remains"
+    },
+    {
+        "name": "Goht's Remains",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/gohts_remains.png",
+        "codes": "gohts_remains"
+    },
+    {
+        "name": "Gyorg's Remains",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/gyorgs_remains.png",
+        "codes": "gyorgs_remains"
+    },
+    {
+        "name": "Twinmold's Remains",
+        "type": "toggle",
+        "img": "images/dungeon_rewards/twinmolds_remains.png",
+        "codes": "twinmolds_remains"
+    }
+]
