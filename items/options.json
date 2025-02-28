@@ -252,6 +252,13 @@
         "loop": true
     },
     {
+        "name": "Keysanity (Only Affects Fire Temple Key Count)",
+        "type": "toggle",
+        "img": "images/options/keysanity.png",
+        "codes": "setting_keysanity",
+        "loop": true
+    },
+    {
         "name": "Owl Statues",
         "type": "toggle",
         "img": "images/options/owl_statues.png",

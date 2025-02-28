@@ -203,6 +203,7 @@ function update_keys()
     end
 
     local sdk = Tracker:FindObjectForCode("setting_dungeon_small_keys")
+    local sks = Tracker:FindObjectForCode("setting_keysanity")
 
     local wftk = Tracker:FindObjectForCode("woodfall_temple_small_keys")
     local shtk = Tracker:FindObjectForCode("snowhead_temple_small_keys")
@@ -263,7 +264,8 @@ function update_keys()
         end
 
         if sod.CurrentStage == 1 or firel.CurrentStage == 2 then c = 5          --MQ
-        else c = 8 end                                                          --Vanilla
+        else if sks.Active then c = 8                                           --Vanilla (Keysanity)
+        else c = 7 end end                                                      --Vanilla (Own Dungeon)
         if sfirekr.Active then
             firek.ItemState:setMaxCount(1)
             if firek.ItemState:getCount() > 0 then
@@ -277,7 +279,7 @@ function update_keys()
         end
 
         if sod.CurrentStage == 1 or watrl.CurrentStage == 2 then c = 2          --MQ
-        else c = 6 end                                                          --Vanilla
+        else c = 5 end                                                          --Vanilla
         if swatrkr.Active then
             watrk.ItemState:setMaxCount(1)
             if watrk.ItemState:getCount() > 0 then
