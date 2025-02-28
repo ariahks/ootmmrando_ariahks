@@ -135,11 +135,11 @@
             },
             {
                 "type": "item",
-                "item": "setting_blank"
+                "item": "setting_skeleton_key"
             },
             {
                 "type": "item",
-                "item": "setting_blank"
+                "item": "setting_magical_rupee"
             },
             {
                 "type": "item",
@@ -223,11 +223,11 @@
             },
             {
                 "type": "item",
-                "item": "setting_skeleton_key"
+                "item": "setting_blank"
             },
             {
                 "type": "item",
-                "item": "setting_magical_rupee"
+                "item": "setting_blank"
             },
             {
                 "type": "item",
