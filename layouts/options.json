@@ -195,6 +195,10 @@
             },
             {
                 "type": "item",
+                "item": "setting_town_stray_fairy"
+            },
+            {
+                "type": "item",
                 "item": "setting_clocks"
             },
             {
@@ -224,10 +228,6 @@
             {
                 "type": "item",
                 "item": "setting_magical_rupee"
-            },
-            {
-                "type": "item",
-                "item": "setting_blank"
             },
             {
                 "type": "item",
