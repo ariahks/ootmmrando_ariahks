@@ -161,9 +161,9 @@ If this setting is enabled, the Biggoron Sword on the tracker, instead of being 
 
 ---
 
-![Skulltula Tokens: Off](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/options/skulltulas_off.png?raw=true)![Skulltula Tokens: Gold](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/options/skulltulas_gold.png?raw=true)![Skulltula Tokens: MM Only](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/options/skulltulas_mm_only.png?raw=true)![Skulltula Tokens: All](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/options/skulltulas_all.png?raw=true)
+![Skulltula Tokens: Gold](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/options/skulltulas_gold.png?raw=true)![Skulltula Tokens: MM Only](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/options/skulltulas_mm_only.png?raw=true)![Skulltula Tokens: All](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/options/skulltulas_all.png?raw=true)
 
-This setting determines whether any skulltula tokens should be trackable. If it's set to "Gold", then only Ocarina of Time's Gold Skulltula Tokens will be trackable. If it's set to "MM Only", then only Majora's Mask's Swamp and Ocean Skulltula Tokens will be trackable. If it's set to "All", then all three types of Skulltula Tokens will be trackable.
+This setting determines whether any skulltula tokens should be trackable. If it's set to "Gold", then only Ocarina of Time's Gold Skulltula Tokens will be trackable. If it's set to "MM Only", then only Majora's Mask's Swamp and Ocean Skulltula Tokens will be trackable. If it's set to "All", then all three types of Skulltula Tokens will be trackable. It also, of course, can be set to "Off", as is the default.
 
 
 ![Town Stray Fairy](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/options/town_stray_fairy.png?raw=true)
