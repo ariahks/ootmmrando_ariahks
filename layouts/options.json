@@ -2,7 +2,7 @@
     "quest_settings": {
         "type": "array",
         "orientation": "vertical",
-        "width": 204,
+        "width": 224,
         "item_margin": "1,2",
         "content": [
             {
@@ -82,7 +82,7 @@
     "dungeon_settings": {
         "type": "array",
         "orientation": "vertical",
-        "width": 204,
+        "width": 224,
         "item_margin": "1,2",
         "content": [
             {
@@ -162,7 +162,7 @@
     "item_settings": {
         "type": "array",
         "orientation": "vertical",
-        "width": 204,
+        "width": 224,
         "item_margin": "1,2",
         "content": [
             {
@@ -242,7 +242,7 @@
     "key_rings": {
         "type": "array",
         "orientation": "vertical",
-        "width": 204,
+        "width": 224,
         "item_margin": "1,2",
         "content": [
             {
@@ -322,7 +322,7 @@
     "silver_rupee_pouches": {
         "type": "array",
         "orientation": "vertical",
-        "width": 204,
+        "width": 224,
         "item_margin": "1,2",
         "content": [
             {
@@ -402,7 +402,7 @@
     "soul_settings": {
         "type": "array",
         "orientation": "vertical",
-        "width": 204,
+        "width": 224,
         "item_margin": "1,2",
         "content": [
             {
