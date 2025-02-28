@@ -86,6 +86,7 @@ end
 function update_eggs_and_letter()
     local se = Tracker:FindObjectForCode("setting_eggs")
     local sscz = Tracker:FindObjectForCode("setting_skip_child_zelda")
+    local sokg = Tracker:FindObjectForCode("setting_open_kakariko_gate")
 
     local e = Tracker:FindObjectForCode("eggs")
     local c = Tracker:FindObjectForCode("chicken")
@@ -97,17 +98,16 @@ function update_eggs_and_letter()
         e.ItemState:setMaxCount(0)
     end
 
-    if sscz.CurrentStage > 1 then
+    if sscz.Active then
         c.ItemState:setHidden(true)
+    else
+        c.ItemState:setHidden(false)
+    end
+
+    if sokg.Active then
         l.ItemState:setHidden(true)
     else
-        if sscz.CurrentStage > 0 then
-            c.ItemState:setHidden(true)
-            l.ItemState:setHidden(false)
-        else
-            c.ItemState:setHidden(false)
-            l.ItemState:setHidden(false)
-        end
+        l.ItemState:setHidden(false)
     end
 end
 

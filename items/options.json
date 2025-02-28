@@ -239,22 +239,17 @@
     },
     {
         "name": "Skip Child Zelda",
-        "type": "progressive",
-        "loop": true,
-        "allow_disabled": false,
-        "stages": [
-            {
-                "img": "images/options/skip_child_zelda.png",
-                "img_mods": "@disabled",
-                "codes": "setting_skip_child_zelda"
-            },
-            {
-                "img": "images/options/skip_child_zelda.png"
-            },
-            {
-                "img": "images/options/skip_child_zelda_and_open_gate.png"
-            }
-        ]
+        "type": "toggle",
+        "img": "images/options/skip_child_zelda.png",
+        "codes": "setting_skip_child_zelda",
+        "loop": true
+    },
+    {
+        "name": "Open Kakariko Gate",
+        "type": "toggle",
+        "img": "images/options/open_kakariko_gate.png",
+        "codes": "setting_open_kakariko_gate",
+        "loop": true
     },
     {
         "name": "Owl Statues",
