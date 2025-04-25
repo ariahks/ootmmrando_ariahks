@@ -372,6 +372,8 @@ Whether or not the Ganon's Castle silver rupees are in a pouch.
 
 There are a number of ways that I would like to improve this tracker over time, but I can't promise any kind of consistency in updates. That said, here are some of the things I'd theoretically like to add given infinite time.
 
+- Add the ability to toggle tracking the scarecrow songs.
+- Reorder the silver rupees to match with their order in the in-game tracker.
 - The ability to configure silver rupee pouches for individual sets, rather than only as a group by dungeon.
 - Both an "Unshared Items" variant and an "Unshared Items w/ Souls" variant.
 - Map Tracker??? (long shot)
