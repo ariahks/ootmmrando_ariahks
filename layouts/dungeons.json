@@ -777,7 +777,7 @@
                                     },
                                     {
                                         "type": "item",
-                                        "item": "shadow_temple_sr_pit",
+                                        "item": "shadow_temple_sr_blades",
                                         "h_alignment": "center",
                                         "scale": 0.75,
                                         "margin": "0,0"
@@ -791,14 +791,14 @@
                                 "content": [
                                     {
                                         "type": "item",
-                                        "item": "shadow_temple_sr_spikes",
+                                        "item": "shadow_temple_sr_pit",
                                         "h_alignment": "center",
                                         "scale": 0.75,
                                         "margin": "0,0"
                                     },
                                     {
                                         "type": "item",
-                                        "item": "shadow_temple_sr_blades",
+                                        "item": "shadow_temple_sr_spikes",
                                         "h_alignment": "center",
                                         "scale": 0.75,
                                         "margin": "0,0"
@@ -1104,14 +1104,21 @@
                                 "content": [
                                     {
                                         "type": "item",
-                                        "item": "ganons_castle_sr_forest",
+                                        "item": "ganons_castle_sr_spirit",
                                         "h_alignment": "center",
                                         "scale": 0.75,
                                         "margin": "0,0"
                                     },
                                     {
                                         "type": "item",
-                                        "item": "ganons_castle_sr_fire",
+                                        "item": "ganons_castle_sr_light",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "ganons_castle_sr_shadow",
                                         "h_alignment": "center",
                                         "scale": 0.75,
                                         "margin": "0,0"
@@ -1132,21 +1139,14 @@
                                 "content": [
                                     {
                                         "type": "item",
-                                        "item": "ganons_castle_sr_spirit",
+                                        "item": "ganons_castle_sr_fire",
                                         "h_alignment": "center",
                                         "scale": 0.75,
                                         "margin": "0,0"
                                     },
                                     {
                                         "type": "item",
-                                        "item": "ganons_castle_sr_shadow",
-                                        "h_alignment": "center",
-                                        "scale": 0.75,
-                                        "margin": "0,0"
-                                    },
-                                    {
-                                        "type": "item",
-                                        "item": "ganons_castle_sr_light",
+                                        "item": "ganons_castle_sr_forest",
                                         "h_alignment": "center",
                                         "scale": 0.75,
                                         "margin": "0,0"

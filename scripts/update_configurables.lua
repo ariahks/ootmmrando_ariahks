@@ -8,7 +8,7 @@ function update_configurables()
     update_triforce_pieces()
     update_coins()
     update_biggoron_sword()
-    update_lullaby()
+    update_songs()
     update_oot_mm_sprites()
     update_c_buttons()
 
@@ -264,7 +264,7 @@ function update_biggoron_sword()
     end
 end
 
-function update_lullaby()
+function update_songs()
     local flo = Tracker:FindObjectForCode("setting_full_lullaby_only")
     local gl = Tracker:FindObjectForCode("goron_lullaby")
 
@@ -272,6 +272,18 @@ function update_lullaby()
         if gl.ItemState:getStage() == 1 then
             gl.ItemState:setStage(2)
         end
+    end
+
+    local ss = Tracker:FindObjectForCode("setting_scarecrow_songs")
+    local sso = Tracker:FindObjectForCode("scarecrow_song_oot")
+    local ssm = Tracker:FindObjectForCode("scarecrow_song_mm")
+
+    if ss.Active then
+        sso.ItemState:setHidden(false)
+        ssm.ItemState:setHidden(false)
+    else
+        sso.ItemState:setHidden(true)
+        ssm.ItemState:setHidden(true)
     end
 end
 

@@ -279,6 +279,13 @@
         "codes": "setting_magical_rupee",
         "loop": true
     },
+    {
+        "name": "Scarecrow Songs",
+        "type": "toggle",
+        "img": "images/options/scarecrow_songs.png",
+        "codes": "setting_scarecrow_songs",   
+        "loop": true
+    },
 
     {
         "name": "Key Rings",

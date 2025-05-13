@@ -1,16 +1,18 @@
 ConditionalOverlayToggle = CustomItem:extend()
 
-function ConditionalOverlayToggle:init(name, code, loop, imagePath, overlayPath)
+function ConditionalOverlayToggle:init(name, code, loop, imagePath, overlayPath, rightClickTogglesOverlay)
     self:createItem(name)
     self.code = code
     self:setProperty("active", false)
     self:setProperty("hidden", false)
     self:setProperty("overlayed", false)
     self:setProperty("loop", loop)
+    self:setProperty("rcto", rightClickTogglesOverlay)
     self.activeImage = ImageReference:FromPackRelativePath(imagePath)
     self.activeImageOverlay = ImageReference:FromPackRelativePath(imagePath, "overlay|" .. overlayPath)
     self.disabledImage = ImageReference:FromPackRelativePath(imagePath, "@disabled")
     self.disabledImageOverlay = ImageReference:FromPackRelativePath(imagePath, "overlay|" .. overlayPath .. ",@disabled")
+    self.disabledImageOverlayRCTO = ImageReference:FromPackRelativePath(imagePath, "@disabled,overlay|" .. overlayPath)
     self.ItemInstance.PotentialIcon = self.activeImage
 
     self:updateIcon()
@@ -53,7 +55,11 @@ function ConditionalOverlayToggle:updateIcon()
             end
         else
             if self:isOverlayed() then
-                self.ItemInstance.Icon = self.disabledImageOverlay
+                if self:getProperty("rcto") then
+                    self.ItemInstance.Icon = self.disabledImageOverlayRCTO
+                else
+                    self.ItemInstance.Icon = self.disabledImageOverlay
+                end
             else
                 self.ItemInstance.Icon = self.disabledImage
             end
@@ -76,10 +82,14 @@ end
 
 function ConditionalOverlayToggle:onRightClick()
     if not self:isHidden() then
-        if self:getProperty("loop") then
-            self:setActive(not self:isActive())
-        else
-            self:setActive(false)
+        if self:getProperty("rcto") then
+            self:setOverlayed(not self:isOverlayed())
+        else 
+            if self:getProperty("loop") then
+                self:setActive(not self:isActive())
+            else
+                self:setActive(false)
+            end
         end
     end
 end
@@ -111,6 +121,7 @@ function ConditionalOverlayToggle:save()
     saveData["hidden"] = self:isHidden()
     saveData["overlayed"] = self:isOverlayed()
     saveData["loop"] = self:getProperty("loop")
+    saveData["rcto"] = self:getProperty("rcto")
     return saveData
 end
 
@@ -126,6 +137,9 @@ function ConditionalOverlayToggle:load(data)
     end
     if data["loop"] ~= nil then
         self:setProperty("loop", data["loop"])
+    end
+    if data["rcto"] ~= nil then
+        self:setProperty("rcto", data["rcto"])
     end
     return true
 end

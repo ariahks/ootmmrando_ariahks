@@ -1,6 +1,6 @@
 # OoTMM Randomizer Item Tracker for EmoTracker
 
-###### Version 1.1.0
+###### Version 1.2.0
 
 <br />
 
@@ -195,6 +195,11 @@ If this setting is enabled, you will be able to track the A and C-Buttons needed
 
 If this setting is enabled, you will be able to track the 2 Eggs (Weird and Pocket).
 
+
+![Scarecrow Songs](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/options/scarecrow_songs.png?raw=true)
+
+If this setting is enabled, you will be able to both games' Scarecrow Songs.
+
 <br />
 
 ### Souls Settings ("Shared Items w/ Souls" variant ONLY)
@@ -372,8 +377,6 @@ Whether or not the Ganon's Castle silver rupees are in a pouch.
 
 There are a number of ways that I would like to improve this tracker over time, but I can't promise any kind of consistency in updates. That said, here are some of the things I'd theoretically like to add given infinite time.
 
-- Add the ability to toggle tracking the scarecrow songs.
-- Reorder the silver rupees to match with their order in the in-game tracker.
 - The ability to configure silver rupee pouches for individual sets, rather than only as a group by dungeon.
 - Both an "Unshared Items" variant and an "Unshared Items w/ Souls" variant.
 - Map Tracker??? (long shot)

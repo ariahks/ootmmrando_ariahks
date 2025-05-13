@@ -1,5 +1,10 @@
 # Releases
 
+## v1.2.0
+
+- Added the "Scarecrow Songs" option to toggle weather or not each games' Scarecrow Songs should be trackable.
+- Reordered the Silver Rupees for Shadow Temple and Ganon's Castle to align with the order they have in the in-game tracker.
+
 ## v1.1.0
 
 - Reorganized the settings menu (I think it's better).
