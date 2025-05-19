@@ -1,6 +1,6 @@
 # OoTMM Randomizer Item Tracker for EmoTracker
 
-###### Version 1.2.0
+###### Version 1.3.0 (dev)
 
 <br />
 
@@ -199,6 +199,11 @@ If this setting is enabled, you will be able to track the 2 Eggs (Weird and Pock
 ![Scarecrow Songs](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/options/scarecrow_songs.png?raw=true)
 
 If this setting is enabled, you will be able to both games' Scarecrow Songs.
+
+
+![Bombchu Bags](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/options/bombchu_bags.png?raw=true)
+
+If this setting is enabled, bombchus will act progressively like bombs when tracking, rather than as a simple toggle.
 
 <br />
 

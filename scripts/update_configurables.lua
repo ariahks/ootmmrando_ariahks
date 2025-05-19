@@ -11,6 +11,7 @@ function update_configurables()
     update_songs()
     update_oot_mm_sprites()
     update_c_buttons()
+    update_bombchu_bags()
 
     if string.find(Tracker.ActiveVariantUID, "Souls") then
         update_souls()
@@ -1002,4 +1003,31 @@ function update_souls()
         mgs.ItemState:setHidden(true)
     end
 
+end
+
+function update_bombchu_bags()
+    local obb = Tracker:FindObjectForCode("setting_bombchu_bags")
+    local b = Tracker:FindObjectForCode("bombchus")
+
+    if obb.Active then
+        b.ItemState:useAlt(true)
+        if b.ItemState:getStage() == 0 then
+            b.ItemState:setBadgeText(0, "white")
+        else
+            if b.ItemState:getStage() == 1 then
+                b.ItemState:setBadgeText("20", "white")
+            else
+                if b.ItemState:getStage() == 2 then
+                    b.ItemState:setBadgeText("30", "white")
+                else
+                    if b.ItemState:getStage() == 3 then
+                        b.ItemState:setBadgeText("40", "lime")
+                    end
+                end
+            end
+        end
+    else
+        b.ItemState:useAlt(false)
+        b.ItemState:setBadgeText(0, "white")
+    end
 end

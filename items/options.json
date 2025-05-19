@@ -286,6 +286,13 @@
         "codes": "setting_scarecrow_songs",   
         "loop": true
     },
+    {
+        "name": "Bombchu Bags",
+        "type": "toggle",
+        "img": "images/options/bombchu_bags.png",
+        "codes": "setting_bombchu_bags",   
+        "loop": true
+    },
 
     {
         "name": "Key Rings",

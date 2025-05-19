@@ -58,12 +58,7 @@
         "codes": "bombs",
         "max_quantity": 40
     },
-    {
-        "name": "Bombchus",
-        "type": "toggle",
-        "img": "images/items/bombchu.png",
-        "codes": "bombchus"
-    },
+
     {
         "name": "Boomerang",
         "type": "toggle",

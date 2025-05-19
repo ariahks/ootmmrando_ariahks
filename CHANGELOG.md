@@ -1,8 +1,12 @@
 # Releases
 
+## v1.3.0 (dev)
+
+- Added the "Bombchu Bags" option to toggle whether or not bombchus should be tracked as a single toggle or as a progressive item.
+
 ## v1.2.0
 
-- Added the "Scarecrow Songs" option to toggle weather or not each games' Scarecrow Songs should be trackable.
+- Added the "Scarecrow Songs" option to toggle whether or not each games' Scarecrow Songs should be trackable.
 - Reordered the Silver Rupees for Shadow Temple and Ganon's Castle to align with the order they have in the in-game tracker.
 
 ## v1.1.0
