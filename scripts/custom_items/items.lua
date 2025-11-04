@@ -1,3 +1,6 @@
+-- Settings
+AdvancedProgressive("Keysanity (Only Affects Fire Temple Key Count)", "setting_keysanity", {{"images/settings/keysanity.png"}, {"images/settings/blank.png"}}, true)
+
 -- Equipment
 AdvancedProgressive("Scale", "scale", {{ "images/equipment/silver_scale.png", "images/equipment/golden_scale.png" }, { "images/equipment/bronze_scale.png", "images/equipment/silver_scale.png", "images/equipment/golden_scale.png" }})
 

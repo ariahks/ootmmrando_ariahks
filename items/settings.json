@@ -68,13 +68,6 @@
         "codes": "setting_open_kakariko_gate",
         "loop": true
     },
-    {
-        "name": "Keysanity (Only Affects Fire Temple Key Count)",
-        "type": "toggle",
-        "img": "images/settings/keysanity.png",
-        "codes": "setting_keysanity",
-        "loop": true
-    },
 
 
 

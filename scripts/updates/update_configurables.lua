@@ -1,4 +1,6 @@
 function update_configurables()
+    update_settings()
+
     -- Common
     update_oot_mm_sprites()
 
@@ -29,6 +31,17 @@ function update_configurables()
 
     if string.find(Tracker.ActiveVariantUID, "Souls") then
         update_souls()
+    end
+end
+
+function update_settings()
+    sod = Tracker:FindObjectForCode("setting_oot_dungeons")
+    sk = Tracker:FindObjectForCode("setting_keysanity")
+
+    if sod.CurrentStage == 1 then
+        sk.ItemState:useAlt(true)
+    else
+        sk.ItemState:useAlt(false)
     end
 end
 

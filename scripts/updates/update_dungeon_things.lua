@@ -264,7 +264,7 @@ function update_keys()
         end
 
         if sod.CurrentStage == 1 or fitl.CurrentStage == 2 then c = 5 --MQ
-        else if sks.Active then c = 8                                 --VA (Keysanity)
+        else if sks.ItemState:isActive() then c = 8                   --VA (Keysanity)
         else c = 7 end end                                            --VA (Own Dungeon)
         if sfitkr.Active then
             fitk.ItemState:setMaxCount(1)
