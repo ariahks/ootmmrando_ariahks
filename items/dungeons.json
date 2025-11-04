@@ -1,0 +1,211 @@
+[
+    {
+        "name": "Woodfall Temple",
+        "type": "static",
+        "img": "images/dungeons/labels/woodfall_temple.png",
+        "codes": "woodfall_temple_label"
+    },
+    {
+        "name": "Snowhead Temple",
+        "type": "static",
+        "img": "images/dungeons/labels/snowhead_temple.png",
+        "codes": "snowhead_temple_label"
+    },
+    {
+        "name": "Great Bay Temple",
+        "type": "static",
+        "img": "images/dungeons/labels/great_bay_temple.png",
+        "codes": "great_bay_temple_label"
+    },
+    {
+        "name": "Stone Tower Temple",
+        "type": "static",
+        "img": "images/dungeons/labels/stone_tower_temple.png",
+        "codes": "stone_tower_temple_label"
+    },
+    
+    {
+        "name": "Deku Tree",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/deku_tree.png",
+                "codes": "deku_tree_label"
+            },
+            {
+                "img": "images/dungeons/labels/deku_tree.png",
+                "img_mods": "overlay|images/overlays/va.png"
+            },
+            {
+                "img": "images/dungeons/labels/deku_tree.png",
+                "img_mods": "overlay|images/overlays/mq.png"
+            }
+        ]
+    },
+    {
+        "name": "Dodongo's Cavern",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/dodongos_cavern.png",
+                "codes": "dodongos_cavern_label"
+            },
+            {
+                "img": "images/dungeons/labels/dodongos_cavern.png",
+                "img_mods": "overlay|images/overlays/va.png"
+            },
+            {
+                "img": "images/dungeons/labels/dodongos_cavern.png",
+                "img_mods": "overlay|images/overlays/mq.png"
+            }
+        ]
+    },
+    {
+        "name": "Jabu-Jabu",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/jabu-jabu.png",
+                "codes": "jabu-jabu_label"
+            },
+            {
+                "img": "images/dungeons/labels/jabu-jabu.png",
+                "img_mods": "overlay|images/overlays/va.png"
+            },
+            {
+                "img": "images/dungeons/labels/jabu-jabu.png",
+                "img_mods": "overlay|images/overlays/mq.png"
+            }
+        ]
+    },
+    {
+        "name": "Forest Temple",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/forest_temple.png",
+                "codes": "forest_temple_label"
+            },
+            {
+                "img": "images/dungeons/labels/forest_temple.png",
+                "img_mods": "overlay|images/overlays/va.png"
+            },
+            {
+                "img": "images/dungeons/labels/forest_temple.png",
+                "img_mods": "overlay|images/overlays/mq.png"
+            }
+        ]
+    },
+    {
+        "name": "Fire Temple",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/fire_temple.png",
+                "codes": "fire_temple_label"
+            },
+            {
+                "img": "images/dungeons/labels/fire_temple.png",
+                "img_mods": "overlay|images/overlays/va.png"
+            },
+            {
+                "img": "images/dungeons/labels/fire_temple.png",
+                "img_mods": "overlay|images/overlays/mq.png"
+            }
+        ]
+    },
+    {
+        "name": "Water Temple",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/water_temple.png",
+                "codes": "water_temple_label"
+            },
+            {
+                "img": "images/dungeons/labels/water_temple.png",
+                "img_mods": "overlay|images/overlays/va.png"
+            },
+            {
+                "img": "images/dungeons/labels/water_temple.png",
+                "img_mods": "overlay|images/overlays/mq.png"
+            }
+        ]
+    },
+    {
+        "name": "Spirit Temple",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/spirit_temple.png",
+                "codes": "spirit_temple_label"
+            },
+            {
+                "img": "images/dungeons/labels/spirit_temple.png",
+                "img_mods": "overlay|images/overlays/va.png"
+            },
+            {
+                "img": "images/dungeons/labels/spirit_temple.png",
+                "img_mods": "overlay|images/overlays/mq.png"
+            }
+        ]
+    },
+    {
+        "name": "Shadow Temple",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/shadow_temple.png",
+                "codes": "shadow_temple_label"
+            },
+            {
+                "img": "images/dungeons/labels/shadow_temple.png",
+                "img_mods": "overlay|images/overlays/va.png"
+            },
+            {
+                "img": "images/dungeons/labels/shadow_temple.png",
+                "img_mods": "overlay|images/overlays/mq.png"
+            }
+        ]
+    },
+    {
+        "name": "Free",
+        "type": "static",
+        "img": "images/dungeons/labels/free.png",
+        "codes": "free_label"
+    },
+    {
+        "name": "Triforce Hunt",
+        "type": "progressive",
+        "allow_disabled": false,
+        "ignore_user_input": true,
+        "stages": [
+            {
+                "img": "images/dungeons/labels/blank.png",
+                "codes": "triforce_hunt_label"
+            },
+            {
+                "img": "images/dungeons/labels/triforce_hunt.png"
+            },
+            {
+                "img": "images/dungeons/labels/triforce_quest.png"
+            }
+        ]
+    }
+]
