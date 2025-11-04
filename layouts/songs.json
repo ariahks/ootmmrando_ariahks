@@ -14,8 +14,8 @@
                         "margin": "0,0",
                         "item_margin": "3,4",
                         "rows": [
-                            [ "zeldas_lullaby", "eponas_song", "sarias_song", "suns_song", "scarecrow_song_oot" ],
-                            [ "song_of_time", "song_of_healing", "song_of_soaring", "song_of_storms", "scarecrow_song_mm" ]
+                            [ "zeldas_lullaby", "eponas_song",     "sarias_song",     "suns_song",      "scarecrow_song_oot" ],
+                            [ "song_of_time",   "song_of_healing", "song_of_soaring", "song_of_storms", "scarecrow_song_mm" ]
                         ]
                     },
                     {
@@ -27,7 +27,7 @@
                         "rows": [
                             [ "", "c-up", "" ],
                             [ "c-left", "a", "c-right" ],
-                            [ "", "c-down", ""]
+                            [ "", "c-down", "" ]
                         ]
                     }
                 ]
@@ -39,8 +39,8 @@
                 "margin": "0,0",
                 "item_margin": "3,4",
                 "rows": [
-                    ["minuet_of_forest", "bolero_of_fire", "serenade_of_water", "requiem_of_spirit", "nocturne_of_shadow", "prelude_of_light" ],
-                    ["sonata_of_awakening", "goron_lullaby", "new_wave_bossa_nova", "elegy_of_emptiness", "oath_to_order", "ocarina"]
+                    [ "minuet_of_forest",    "bolero_of_fire", "serenade_of_water",   "requiem_of_spirit",  "nocturne_of_shadow", "prelude_of_light" ],
+                    [ "sonata_of_awakening", "goron_lullaby",  "new_wave_bossa_nova", "elegy_of_emptiness", "oath_to_order",      "ocarina" ]
                 ]
             }
         ]

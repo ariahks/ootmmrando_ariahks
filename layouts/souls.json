@@ -6,7 +6,7 @@
         "content": [
             {
                 "type": "item",
-                "item": "label_boss_souls",
+                "item": "boss_souls_label",
                 "width": 80,
                 "h_alignment": "center",
                 "margin": "0,0"
@@ -87,7 +87,7 @@
                             },
                             {
                                 "type": "item",
-                                "item": "soul_filler_boss",
+                                "item": "soul_boss_filler",
                                 "margin": "0,0"
                             },
                             {
@@ -101,7 +101,7 @@
             },
             {
                 "type": "item",
-                "item": "label_enemy_souls",
+                "item": "enemy_souls_label",
                 "width": 88,
                 "h_alignment": "center",
                 "margin": "0,0"
@@ -239,11 +239,6 @@
                         "content": [
                             {
                                 "type": "item",
-                                "item": "soul_fighting_thieves",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
                                 "item": "soul_flare_dancers",
                                 "margin": "0,0"
                             },
@@ -271,6 +266,11 @@
                                 "type": "item",
                                 "item": "soul_gekkos",
                                 "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_gerudo_pirate_fighters",
+                                "margin": "0,0"
                             }
                         ]
                     },
@@ -280,7 +280,7 @@
                         "content": [
                             {
                                 "type": "item",
-                                "item": "soul_gohma_larvaes",
+                                "item": "soul_gohma_larvae",
                                 "margin": "0,0"
                             },
                             {
@@ -382,12 +382,12 @@
                             },
                             {
                                 "type": "item",
-                                "item": "soul_skull_kids_oot",
+                                "item": "soul_skull_kids",
                                 "margin": "0,0"
                             },
                             {
                                 "type": "item",
-                                "item": "soul_skullfish_mm",
+                                "item": "soul_skullfish",
                                 "margin": "0,0"
                             },
                             {
@@ -423,7 +423,7 @@
                             },
                             {
                                 "type": "item",
-                                "item": "soul_stalfos_oot",
+                                "item": "soul_stalfos",
                                 "margin": "0,0"
                             },
                             {
@@ -483,7 +483,7 @@
             },
             {
                 "type": "item",
-                "item": "label_npc_souls",
+                "item": "npc_souls_label",
                 "width": 72,
                 "h_alignment": "center",
                 "margin": "0,0"
@@ -498,12 +498,48 @@
                         "content": [
                             {
                                 "type": "item",
+                                "item": "soul_astronomer",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_bazaar_shopkeeper_swamp_archery_owner",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_bean_salesman",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_beggar_banker",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
                                 "item": "soul_biggoron",
                                 "margin": "0,0"
                             },
                             {
                                 "type": "item",
                                 "item": "soul_blacksmiths",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_boat_cruise_man",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_bombchu_bombs_shopkeeper",
                                 "margin": "0,0"
                             },
                             {
@@ -518,17 +554,22 @@
                             },
                             {
                                 "type": "item",
-                                "item": "soul_citizens",
+                                "item": "soul_carpet_man_swordsman",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_chest_game_owner_fisherman",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_child_baby_goron",
                                 "margin": "0,0"
                             },
                             {
                                 "type": "item",
                                 "item": "soul_composer_bros",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_cucco_lady_anju",
                                 "margin": "0,0"
                             }
                         ]
@@ -537,6 +578,11 @@
                         "type": "array",
                         "orientation": "horizontal",
                         "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_cucco_lady_anju",
+                                "margin": "0,0"
+                            },
                             {
                                 "type": "item",
                                 "item": "soul_dampe",
@@ -549,7 +595,43 @@
                             },
                             {
                                 "type": "item",
+                                "item": "soul_deku_butler",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_deku_king",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_deku_princess",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_dog_lady",
+                                "margin": "0,0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
+                            {
+                                "type": "item",
                                 "item": "soul_fishing_pond_trading_post_owner",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_gerudo_pirate_guards",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_goron_elder",
                                 "margin": "0,0"
                             },
                             {
@@ -559,17 +641,17 @@
                             },
                             {
                                 "type": "item",
+                                "item": "soul_goron_shopkeeper",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_graveyard_bombers_kids",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
                                 "item": "soul_guru_guru",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_honey_darling",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_hylian_guard",
                                 "margin": "0,0"
                             }
                         ]
@@ -578,6 +660,16 @@
                         "type": "array",
                         "orientation": "horizontal",
                         "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_hylian_clock_town_citizens",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_hylian_guard",
+                                "margin": "0,0"
+                            },
                             {
                                 "type": "item",
                                 "item": "soul_ingo_gorman_bros",
@@ -602,16 +694,6 @@
                                 "type": "item",
                                 "item": "soul_kokiri",
                                 "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_kokiri_shopkeeper",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_koume_and_kotake",
-                                "margin": "0,0"
                             }
                         ]
                     },
@@ -621,7 +703,27 @@
                         "content": [
                             {
                                 "type": "item",
-                                "item": "soul_madame_aroma_mm",
+                                "item": "soul_kokiri_shopkeeper",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_koume_and_kotake",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_lakeside_marine_scientist",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_lovers_honey_and_darling",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_madame_aroma",
                                 "margin": "0,0"
                             },
                             {
@@ -633,7 +735,13 @@
                                 "type": "item",
                                 "item": "soul_mayor_dotour",
                                 "margin": "0,0"
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
                             {
                                 "type": "item",
                                 "item": "soul_medigoron_keg_trial_goron",
@@ -651,7 +759,22 @@
                             },
                             {
                                 "type": "item",
+                                "item": "soul_old_hag_anjus_grandmother",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
                                 "item": "soul_playground_scrubs",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_poe_collector_poe_hut_owner",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_potion_shopkeeper",
                                 "margin": "0,0"
                             }
                         ]
@@ -662,12 +785,7 @@
                         "content": [
                             {
                                 "type": "item",
-                                "item": "soul_poe_collector_ghost_hut_owner",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_potion_shopkeeper",
+                                "item": "soul_punk_boy_grog",
                                 "margin": "0,0"
                             },
                             {
@@ -692,6 +810,11 @@
                             },
                             {
                                 "type": "item",
+                                "item": "soul_shooting_gallery_town_archery_owner",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
                                 "item": "soul_talon_mr_barten",
                                 "margin": "0,0"
                             }
@@ -701,134 +824,6 @@
                         "type": "array",
                         "orientation": "horizontal",
                         "content": [
-                            {
-                                "type": "item",
-                                "item": "soul_astronomer",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_bazaar_swamp_archery_owner",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_bean_salesman",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_beggar_banker",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_bombchu_bomb_shop_owner",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_carpet_man_swordsman",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_chest_game_owner_fisherman",
-                                "margin": "0,0"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "array",
-                        "orientation": "horizontal",
-                        "content": [
-                            {
-                                "type": "item",
-                                "item": "soul_deku_butler",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_deku_king",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_deku_princess",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_dog_lady",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_goron_child_baby",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_goron_elder",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_goron_shopkeeper",
-                                "margin": "0,0"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "array",
-                        "orientation": "horizontal",
-                        "content": [
-                            {
-                                "type": "item",
-                                "item": "soul_graveyard_kid_bombers",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_old_hag_anjus_grandmother",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_patrolling_thieves_and_their_chief",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_punk_kid_grog",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_scientist",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_shooting_gallery_town_archery_owner",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_zora_musicians",
-                                "margin": "0,0"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "array",
-                        "orientation": "horizontal",
-                        "content": [
-                            {
-                                "type": "item",
-                                "item": "soul_zora_shopkeeper",
-                                "margin": "0,0"
-                            },
                             {
                                 "type": "item",
                                 "item": "soul_tingle",
@@ -841,12 +836,7 @@
                             },
                             {
                                 "type": "item",
-                                "item": "soul_toto_mm",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_tourist_center_owner",
+                                "item": "soul_toto",
                                 "margin": "0,0"
                             },
                             {
@@ -856,7 +846,17 @@
                             },
                             {
                                 "type": "item",
+                                "item": "soul_zora_musicians",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
                                 "item": "soul_zoras",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_zora_shopkeeper",
                                 "margin": "0,0"
                             }
                         ]
@@ -865,7 +865,7 @@
             },
             {
                 "type": "item",
-                "item": "label_misc_souls",
+                "item": "misc_souls_label",
                 "width": 84,
                 "h_alignment": "center",
                 "margin": "0,0"

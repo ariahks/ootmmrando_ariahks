@@ -1,8 +1,32 @@
 # Releases
 
+## v2.0.0
+
+With this release comes a rewrite from the ground up behind the scenes!
+
+- Saving & Loading works now! In previous versions, there was a bug that wouldn't allow you to load a saved state. Loading takes a little while, but rest assured it's working!
+- Better dungeon reward system! On the surface it looks the same, but now when noting where dungeon rewards are located, it will skip over any rewards already accounted for, significantly reducing tedium.
+
+### Visuals
+- Stray fairy textures and text on owl statues, some souls, and some settings redone.
+- Key ring and silver rupee pouch settings are now easier to parse.
+
+### Layout
+- Bottles are now shared! The tracker now tracks each of the six bottles separately.
+- Settings have been rearranged, in-so-doing birthed a new tab: "Misc. Settings".
+
+### Settings
+- Added the "Transcendent Fairy" setting to add the transcendent fairy to the tracker.
+- Added the "Note Shuffle" setting to track songs note by note.
+- Added the "Bombchus" setting to specify how bombchus should be tracked: as a simple toggle, with the bomb bags, or as its own progressive item.
+- Added the "Bronze Scale" setting to track the bronze scale progressively with the silver and golden scales.
+- Added the "Pre-Planted Beans (OoT)" setting to hide OoT's magic beans from the tracker.
+- Added the "Random Bottle Contents" setting to remove the default contents from four of the shared bottles, and allow you to track their contents yourself.
+
+
 ## v1.2.0
 
-- Added the "Scarecrow Songs" option to toggle weather or not each games' Scarecrow Songs should be trackable.
+- Added the "Scarecrow Songs" option to toggle whether or not each games' Scarecrow Songs should be trackable.
 - Reordered the Silver Rupees for Shadow Temple and Ganon's Castle to align with the order they have in the in-game tracker.
 
 ## v1.1.0
@@ -16,7 +40,7 @@
 
 Initial Release
 
-An items only tracker for the Ocarina of Time x Majora's Mask combined randomizer with a focus on shared items, designed with the sole focus of being the tracker i myself use.
+An items only tracker for the Ocarina of Time x Majora's Mask combined randomizer with a focus on shared items, designed with the sole focus of being the tracker I myself use.
 
 ### Variants
 

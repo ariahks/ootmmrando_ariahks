@@ -14,10 +14,10 @@
                         "margin": "0,0",
                         "item_margin": "3,4",
                         "rows": [
-                            [ "stone_of_agony", "heart_containers", "kokiri_sword",  "master_sword", "biggoron_sword" ],
-                            [ "gerudo_membership_card", "heart_pieces", "deku_shield", "hylian_heros_shield",  "mirror_shield" ],
-                            [ "strength", "double_defense", "kokiri_tunic", "goron_tunic", "zora_tunic" ],
-                            [ "scale", "magic", "kokiri_boots",     "iron_boots", "hover_boots" ]
+                            [ "stone_of_agony",         "heart_containers", "kokiri_sword", "master_sword",        "biggoron_sword" ],
+                            [ "gerudo_membership_card", "heart_pieces",     "deku_shield",  "hylian_heros_shield", "mirror_shield" ],
+                            [ "strength",               "double_defense",   "kokiri_tunic", "goron_tunic",         "zora_tunic" ],
+                            [ "scale",                  "magic",            "kokiri_boots", "iron_boots",          "hover_boots"]
                         ]
                     },
                     {
@@ -34,8 +34,8 @@
                                 "item_margin": "3,4",
                                 "rows": [
                                     [ "great_spin_attack", "gold_skulltula_tokens" ],
-                                    [ "bombers_notebook", "swamp_skulltula_tokens"],
-                                    [ "wallet", "ocean_skulltula_tokens"]
+                                    [ "bombers_notebook",  "swamp_skulltula_tokens" ],
+                                    [ "wallet",            "ocean_skulltula_tokens" ]
                                 ]
                             },
                             {

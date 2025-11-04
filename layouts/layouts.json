@@ -54,7 +54,7 @@
                                 "type": "button_popup",
                                 "style": "settings",
                                 "popup_background": "#FF212121",
-                                "layout": "options_popup"
+                                "layout": "settings_popup"
                             },
                             "dock": "top",
                             "content": {
@@ -175,7 +175,7 @@
                                 "type": "button_popup",
                                 "style": "settings",
                                 "popup_background": "#FF212121",
-                                "layout": "options_popup_souls"
+                                "layout": "settings_popup_souls"
                             },
                             "dock": "top",
                             "content": {

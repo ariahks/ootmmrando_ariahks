@@ -1,5 +1,66 @@
 [
     {
+        "name": "Stone of Agony",
+        "type": "toggle",
+        "img": "images/equipment/stone_of_agony.png",
+        "codes": "stone_of_agony"
+    },
+    {
+        "name": "Gerudo Membership Card",
+        "type": "toggle",
+        "img": "images/equipment/gerudo_membership_card.png",
+        "codes": "gerudo_membership_card"
+    },
+    {
+        "name": "Strength",
+        "type": "progressive",
+        "stages": [
+            {
+                "img": "images/equipment/goron_bracelet.png",
+                "codes": "strength"
+            },
+            {
+                "img": "images/equipment/silver_gauntlets.png"
+            },
+            {
+                "img": "images/equipment/golden_gauntlets.png"
+            }
+        ]
+    },
+    {
+        "name": "Heart Containers",
+        "type": "consumable",
+        "img": "images/equipment/heart_container.png",
+        "codes": "heart_containers",
+        "max_quantity": 6
+    },
+    {
+        "name": "Heart Pieces",
+        "type": "consumable",
+        "img": "images/equipment/heart_piece.png",
+        "codes": "heart_pieces",
+        "max_quantity": 44
+    },
+    {
+        "name": "Double Defense",
+        "type": "toggle",
+        "img": "images/equipment/double_defense.png",
+        "codes": "double_defense"
+    },
+    {
+        "name": "Magic",
+        "type": "progressive",
+        "stages": [
+            {
+                "img": "images/equipment/magic.png",
+                "codes": "magic"
+            },
+            {
+                "img": "images/equipment/double_magic.png"
+            }
+        ]
+    },
+    {
         "name": "Master Sword",
         "type": "toggle",
         "img": "images/equipment/master_sword.png",
@@ -69,89 +130,15 @@
         "codes": "hover_boots"
     },
     {
-        "name": "Strength",
-        "type": "progressive",
-        "stages": [
-            {
-                "img": "images/equipment/goron_bracelet.png",
-                "codes": "strength"
-            },
-            {
-                "img": "images/equipment/silver_gauntlets.png"
-            },
-            {
-                "img": "images/equipment/golden_gauntlets.png"
-            }
-        ]
-    },
-    {
-        "name": "Scale",
-        "type": "progressive",
-        "stages": [
-            {
-                "img": "images/equipment/silver_scale.png",
-                "codes": "scale"
-            },
-            {
-                "img": "images/equipment/golden_scale.png"
-            }
-        ]
-    },
-    {
-        "name": "Magic",
-        "type": "progressive",
-        "stages": [
-            {
-                "img": "images/equipment/magic.png",
-                "codes": "magic"
-            },
-            {
-                "img": "images/equipment/double_magic.png"
-            }
-        ]
-    },
-    {
-        "name": "Heart Containers",
-        "type": "consumable",
-        "img": "images/equipment/heart_container.png",
-        "codes": "heart_containers",
-        "max_quantity": 6
-    },
-    {
-        "name": "Heart Pieces",
-        "type": "consumable",
-        "img": "images/equipment/heart_piece.png",
-        "codes": "heart_pieces",
-        "max_quantity": 44
-    },
-    {
-        "name": "Double Defense",
+        "name": "Great Spin Attack",
         "type": "toggle",
-        "img": "images/equipment/double_defense.png",
-        "codes": "double_defense"
+        "img": "images/equipment/great_spin_attack.png",
+        "codes": "great_spin_attack"
     },
     {
         "name": "Bombers' Notebook",
         "type": "toggle",
         "img": "images/equipment/bombers_notebook.png",
         "codes": "bombers_notebook"
-    },
-    {
-        "name": "Gerudo Membership Card",
-        "type": "toggle",
-        "img": "images/equipment/gerudo_membership_card.png",
-        "codes": "gerudo_membership_card"
-    },
-    {
-        "name": "Stone of Agony",
-        "type": "toggle",
-        "img": "images/equipment/stone_of_agony.png",
-        "codes": "stone_of_agony"
-    },
-    {
-        "name": "Great Spin Attack",
-        "type": "toggle",
-        "img": "images/equipment/great_spin_attack.png",
-        "codes": "great_spin_attack"
     }
 ]

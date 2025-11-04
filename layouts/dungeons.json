@@ -367,7 +367,7 @@
                             },
                             {
                                 "type": "item",
-                                "item": "dodongos_cavern_sr",
+                                "item": "dodongos_cavern_sr_staircase",
                                 "h_alignment": "center",
                                 "scale": 0.75,
                                 "margin": "0,0"
@@ -850,11 +850,17 @@
                                 "type": "item",
                                 "item": "skeleton_key",
                                 "h_alignment": "center",
-                                "margin": "0,4,0,0"
+                                "margin": "0,0"
                             },
                             {
                                 "type": "item",
                                 "item": "magical_rupee",
+                                "h_alignment": "center",
+                                "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "transcendent_fairy",
                                 "h_alignment": "center",
                                 "margin": "0,0"
                             }
@@ -960,11 +966,18 @@
                                 ]
                             },
                             {
-                                "type": "item",
-                                "item": "bottom_of_the_well_sr",
+                                "type": "array",
+                                "orientation": "horizontal",
                                 "h_alignment": "center",
-                                "scale": 0.75,
-                                "margin": "0,0"
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "bottom_of_the_well_sr_basement",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -978,7 +991,7 @@
                                 "type": "item",
                                 "item": "thieves_hideout_label",
                                 "h_alignment": "center",
-                                "margin": "0,2"
+                                "margin": "2,2"
                             },
                             {
                                 "type": "item",
@@ -1055,7 +1068,7 @@
                                 "type": "item",
                                 "item": "treasure_chest_game_label",
                                 "h_alignment": "center",
-                                "margin": "0,2"
+                                "margin": "2,2"
                             },
                             {
                                 "type": "item",
@@ -1115,20 +1128,6 @@
                                         "h_alignment": "center",
                                         "scale": 0.75,
                                         "margin": "0,0"
-                                    },
-                                    {
-                                        "type": "item",
-                                        "item": "ganons_castle_sr_shadow",
-                                        "h_alignment": "center",
-                                        "scale": 0.75,
-                                        "margin": "0,0"
-                                    },
-                                    {
-                                        "type": "item",
-                                        "item": "ganons_castle_sr_water",
-                                        "h_alignment": "center",
-                                        "scale": 0.75,
-                                        "margin": "0,0"
                                     }
                                 ]
                             },
@@ -1147,6 +1146,27 @@
                                     {
                                         "type": "item",
                                         "item": "ganons_castle_sr_forest",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "h_alignment": "center",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "ganons_castle_sr_shadow",
+                                        "h_alignment": "center",
+                                        "scale": 0.75,
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "ganons_castle_sr_water",
                                         "h_alignment": "center",
                                         "scale": 0.75,
                                         "margin": "0,0"

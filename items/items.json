@@ -8,10 +8,11 @@
                 "codes": "ocarina"
             },
             {
-                "img": "images/items/ocarina_of_time.png"
+                "img": "images/items/ocarina_of_time.png"            
             }
         ]
     },
+
     {
         "name": "Deku Sticks",
         "type": "consumable",
@@ -25,13 +26,6 @@
         "img": "images/items/deku_nut.png",
         "codes": "deku_nuts",
         "max_quantity": 40
-    },
-    {
-        "name": "Fairy Slingshot",
-        "type": "consumable",
-        "img": "images/items/fairy_slingshot.png",
-        "codes": "fairy_slingshot",
-        "max_quantity": 50
     },
     {
         "name": "Fire Arrows",
@@ -51,6 +45,7 @@
         "img": "images/items/light_arrows.png",
         "codes": "light_arrows"
     },
+
     {
         "name": "Bombs",
         "type": "consumable",
@@ -59,10 +54,11 @@
         "max_quantity": 40
     },
     {
-        "name": "Bombchus",
-        "type": "toggle",
-        "img": "images/items/bombchu.png",
-        "codes": "bombchus"
+        "name": "Fairy Slingshot",
+        "type": "consumable",
+        "img": "images/items/fairy_slingshot.png",
+        "codes": "fairy_slingshot",
+        "max_quantity": 50
     },
     {
         "name": "Boomerang",
@@ -71,23 +67,12 @@
         "codes": "boomerang"
     },
     {
-        "name": "Lens of Truth",
-        "type": "toggle",
-        "img": "images/items/lens_of_truth.png",
-        "codes": "lens_of_truth"
-    },
-    {
         "name": "Megaton Hammer",
         "type": "toggle",
         "img": "images/items/megaton_hammer.png",
         "codes": "megaton_hammer"
     },
-    {
-        "name": "Dins Fire",
-        "type": "toggle",
-        "img": "images/items/dins_fire.png",
-        "codes": "dins_fire"
-    },
+
     {
         "name": "Powder Keg",
         "type": "toggle",
@@ -101,22 +86,22 @@
         "codes": "pictograph_box"
     },
     {
-        "name": "Magic Beans (OoT)",
+        "name": "Lens of Truth",
         "type": "toggle",
-        "img": "images/items/magic_beans_oot.png",
-        "codes": "magic_beans_oot"
-    },
-    {
-        "name": "Magic Beans (MM)",
-        "type": "toggle",
-        "img": "images/items/magic_beans_mm.png",
-        "codes": "magic_beans_mm"
+        "img": "images/items/lens_of_truth.png",
+        "codes": "lens_of_truth"
     },
     {
         "name": "Great Fairy's Sword",
         "type": "toggle",
         "img": "images/items/great_fairys_sword.png",
         "codes": "great_fairys_sword"
+    },
+    {
+        "name": "Din's Fire",
+        "type": "toggle",
+        "img": "images/items/dins_fire.png",
+        "codes": "dins_fire"
     },
     {
         "name": "Farore's Wind",
@@ -129,46 +114,5 @@
         "type": "toggle",
         "img": "images/items/nayrus_love.png",
         "codes": "nayrus_love"
-    },
-
-    {
-        "name": "Bottles (OoT) Label",
-        "type": "static",
-        "img": "images/items/bottles/label_oot.png",
-        "codes": "bottles_oot_label"
-    },
-    {
-        "name": "Bottles (OoT)",
-        "type": "consumable",
-        "img": "images/items/bottles/empty.png",
-        "img_mods": "overlay|images/overlays/oot.png",
-        "codes": "bottles_oot",
-        "max_quantity": 4
-    },
-    {
-        "name": "Ruto's Letter",
-        "type": "toggle",
-        "img": "images/items/bottles/rutos_letter.png",
-        "codes": "rutos_letter"
-    },
-    {
-        "name": "Bottles (MM) Label",
-        "type": "static",
-        "img": "images/items/bottles/label_mm.png",
-        "codes": "bottles_mm_label"
-    },
-    {
-        "name": "Bottles (MM)",
-        "type": "consumable",
-        "img": "images/items/bottles/empty.png",
-        "img_mods": "overlay|images/overlays/mm.png",
-        "codes": "bottles_mm",
-        "max_quantity": 6
-    },
-    {
-        "name": "Gold Dust",
-        "type": "toggle",
-        "img": "images/items/bottles/gold_dust.png",
-        "codes": "gold_dust"
     }
 ]
