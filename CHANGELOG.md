@@ -1,9 +1,3 @@
----
-title: CHANGELOG
-created: '2025-11-03T20:47:44.273Z'
-modified: '2025-11-04T03:06:55.129Z'
----
-
 # Releases
 
 ## v2.0.0

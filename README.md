@@ -1,9 +1,3 @@
----
-title: README
-created: '2025-11-03T20:47:35.100Z'
-modified: '2025-11-04T02:52:13.940Z'
----
-
 # OoTMM Randomizer Item Tracker for EmoTracker
 
 ###### Version 2.0.0
