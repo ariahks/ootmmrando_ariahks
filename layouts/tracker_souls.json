@@ -1,7 +1,7 @@
 {
     "tracker_default": {
         "type": "container",
-        "width": 837,
+        "width": 875,
         "background": "#212121",
         "content": {
             "type": "layout",

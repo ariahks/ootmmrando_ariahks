@@ -1,5 +1,11 @@
 # Releases
 
+## v2.1.0
+
+- Added the "Soul of Poe" to the "Enemy Souls" section in the "w/ Souls" variant.
+- Added the "Animal Souls" section to the "w/ Souls" variant, with "Soul of Butterflies", "Soul of Cows", "Soul of Cuccos", and "Soul of Dogs".
+- Slight redesign of the "Label Souls by Game" setting image: it now contains the blue of animal souls rather than the grey of misc. souls.
+
 ## v2.0.0
 
 With this release comes a rewrite from the ground up behind the scenes!
