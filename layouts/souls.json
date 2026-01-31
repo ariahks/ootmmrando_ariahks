@@ -1,7 +1,7 @@
 {
     "souls": {
         "type": "array",
-        "width": 266,
+        "width": 304,
         "orientation": "vertical",
         "content": [
             {
@@ -13,6 +13,7 @@
             },
             {
                 "type": "array",
+                "h_alignment": "center",
                 "orientation": "vertical",
                 "content": [
                     {
@@ -108,6 +109,7 @@
             },
             {
                 "type": "array",
+                "h_alignment": "center",
                 "orientation": "vertical",
                 "content": [
                     {
@@ -148,6 +150,11 @@
                                 "type": "item",
                                 "item": "soul_biris_baris",
                                 "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_boes",
+                                "margin": "0,0"
                             }
                         ]
                     },
@@ -155,11 +162,6 @@
                         "type": "array",
                         "orientation": "horizontal",
                         "content": [
-                            {
-                                "type": "item",
-                                "item": "soul_boes",
-                                "margin": "0,0"
-                            },
                             {
                                 "type": "item",
                                 "item": "soul_bubbles",
@@ -189,13 +191,7 @@
                                 "type": "item",
                                 "item": "soul_deep_pythons",
                                 "margin": "0,0"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "array",
-                        "orientation": "horizontal",
-                        "content": [
+                            },
                             {
                                 "type": "item",
                                 "item": "soul_deku_babas",
@@ -205,7 +201,13 @@
                                 "type": "item",
                                 "item": "soul_deku_scrubs",
                                 "margin": "0,0"
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
                             {
                                 "type": "item",
                                 "item": "soul_dexihands",
@@ -230,13 +232,7 @@
                                 "type": "item",
                                 "item": "soul_eyegores",
                                 "margin": "0,0"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "array",
-                        "orientation": "horizontal",
-                        "content": [
+                            },
                             {
                                 "type": "item",
                                 "item": "soul_flare_dancers",
@@ -251,7 +247,13 @@
                                 "type": "item",
                                 "item": "soul_flying_pots",
                                 "margin": "0,0"
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
                             {
                                 "type": "item",
                                 "item": "soul_freezards",
@@ -271,13 +273,7 @@
                                 "type": "item",
                                 "item": "soul_gerudo_pirate_fighters",
                                 "margin": "0,0"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "array",
-                        "orientation": "horizontal",
-                        "content": [
+                            },
                             {
                                 "type": "item",
                                 "item": "soul_gohma_larvae",
@@ -297,7 +293,13 @@
                                 "type": "item",
                                 "item": "soul_hiploops",
                                 "margin": "0,0"
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
                             {
                                 "type": "item",
                                 "item": "soul_iron_knuckles",
@@ -312,13 +314,7 @@
                                 "type": "item",
                                 "item": "soul_keese",
                                 "margin": "0,0"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "array",
-                        "orientation": "horizontal",
-                        "content": [
+                            },
                             {
                                 "type": "item",
                                 "item": "soul_leevers",
@@ -343,7 +339,13 @@
                                 "type": "item",
                                 "item": "soul_nejirons",
                                 "margin": "0,0"
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
                             {
                                 "type": "item",
                                 "item": "soul_octoroks",
@@ -353,13 +355,12 @@
                                 "type": "item",
                                 "item": "soul_peahats",
                                 "margin": "0,0"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "array",
-                        "orientation": "horizontal",
-                        "content": [
+                            },
+                            {
+                                "type": "item",
+                                "item": "soul_poes",
+                                "margin": "0,0"
+                            },
                             {
                                 "type": "item",
                                 "item": "soul_real_bombchu",
@@ -384,7 +385,13 @@
                                 "type": "item",
                                 "item": "soul_skull_kids",
                                 "margin": "0,0"
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "content": [
                             {
                                 "type": "item",
                                 "item": "soul_skullfish",
@@ -394,13 +401,7 @@
                                 "type": "item",
                                 "item": "soul_skulltulas",
                                 "margin": "0,0"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "array",
-                        "orientation": "horizontal",
-                        "content": [
+                            },
                             {
                                 "type": "item",
                                 "item": "soul_skullwalltulas",
@@ -430,11 +431,6 @@
                                 "type": "item",
                                 "item": "soul_stingers",
                                 "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "soul_tailpasarans",
-                                "margin": "0,0"
                             }
                         ]
                     },
@@ -442,6 +438,11 @@
                         "type": "array",
                         "orientation": "horizontal",
                         "content": [
+                            {
+                                "type": "item",
+                                "item": "soul_tailpasarans",
+                                "margin": "0,0"
+                            },
                             {
                                 "type": "item",
                                 "item": "soul_takkuri",
@@ -490,6 +491,7 @@
             },
             {
                 "type": "array",
+                "h_alignment": "center",
                 "orientation": "vertical",
                 "content": [
                     {
@@ -864,30 +866,84 @@
                 ]
             },
             {
-                "type": "item",
-                "item": "misc_souls_label",
-                "width": 84,
-                "h_alignment": "center",
-                "margin": "0,0"
-            },
-            {
                 "type": "array",
-                "orientation": "vertical",
+                "h_alignment": "center",
+                "orientation": "horizontal",
                 "content": [
                     {
                         "type": "array",
-                        "orientation": "horizontal",
                         "h_alignment": "center",
+                        "orientation": "vertical",
                         "content": [
                             {
                                 "type": "item",
-                                "item": "soul_business_scrubs",
+                                "item": "animal_souls_label",
+                                "h_alignment": "center",
                                 "margin": "0,0"
                             },
                             {
+                                "type": "array",
+                                "h_alignment": "center",
+                                "orientation": "horizontal",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "soul_butterflies",
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "soul_cows",
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "soul_cuccos",
+                                        "margin": "0,0"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "item": "soul_dogs",
+                                        "margin": "0,0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "h_alignment": "center",
+                        "orientation": "vertical",
+                        "content": [
+                            {
                                 "type": "item",
-                                "item": "soul_gold_skulltulas",
+                                "item": "misc_souls_label",
+                                "h_alignment": "center",
                                 "margin": "0,0"
+                            },
+                            {
+                                "type": "array",
+                                "h_alignment": "center",
+                                "orientation": "vertical",
+                                "content": [
+                                    {
+                                        "type": "array",
+                                        "h_alignment": "center",
+                                        "orientation": "horizontal",
+                                        "content": [
+                                            {
+                                                "type": "item",
+                                                "item": "soul_business_scrubs",
+                                                "margin": "0,0"
+                                            },
+                                            {
+                                                "type": "item",
+                                                "item": "soul_gold_skulltulas",
+                                                "margin": "0,0"
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     }

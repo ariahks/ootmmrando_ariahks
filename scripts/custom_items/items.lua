@@ -542,63 +542,63 @@ if string.find(Tracker.ActiveVariantUID, "Souls") then
     AdvancedToggle("Soul of Beamos", "soul_beamos", "images/souls/enemy/beamos.png")
     AdvancedToggle("Soul of Bio Babas", "soul_bio_babas", "images/souls/enemy/bio_babas.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Biris/Baris", "soul_biris_baris", "images/souls/enemy/biris_baris.png", "images/overlays/oot.png", false, false, true)
-    
     AdvancedToggle("Soul of Boes", "soul_boes", "images/souls/enemy/boes.png", "images/overlays/mm.png", false, false, true)
+    
     AdvancedToggle("Soul of Bubbles", "soul_bubbles", "images/souls/enemy/bubbles.png")
     AdvancedToggle("Soul of Captain Keeta", "soul_captain_keeta", "images/souls/enemy/captain_keeta.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Chuchus", "soul_chuchus", "images/souls/enemy/chuchus.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Dark Link", "soul_dark_link", "images/souls/enemy/dark_link.png", "images/overlays/oot.png", false, false, true)
     AdvancedToggle("Soul of Dead Hands", "soul_dead_hands", "images/souls/enemy/dead_hands.png", "images/overlays/oot.png", false, false, true)
     AdvancedToggle("Soul of Deep Pythons", "soul_deep_pythons", "images/souls/enemy/deep_pythons.png", "images/overlays/mm.png", false, false, true)
-    
     AdvancedToggle("Soul of Deku Babas", "soul_deku_babas", "images/souls/enemy/deku_babas.png")
     AdvancedToggle("Soul of Deku Scrubs", "soul_deku_scrubs", "images/souls/enemy/deku_scrubs.png")
+    
     AdvancedToggle("Soul of Dexihands", "soul_dexihands", "images/souls/enemy/dexihands.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Dodongos", "soul_dodongos", "images/souls/enemy/dodongos.png")
     AdvancedToggle("Soul of Dragonflies", "soul_dragonflies", "images/souls/enemy/dragonflies.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Eenoes", "soul_eenoes", "images/souls/enemy/eenoes.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Eyegores", "soul_eyegores", "images/souls/enemy/eyegores.png", "images/overlays/mm.png", false, false, true)
-    
     AdvancedToggle("Soul of Flare Dancers", "soul_flare_dancers", "images/souls/enemy/flare_dancers.png", "images/overlays/oot.png", false, false, true)
     AdvancedToggle("Soul of Floormasters", "soul_floormasters", "images/souls/enemy/floormasters.png")
     AdvancedToggle("Soul of Flying Pots", "soul_flying_pots", "images/souls/enemy/flying_pots.png")
+    
     AdvancedToggle("Soul of Freezards", "soul_freezards", "images/souls/enemy/freezards.png")
     AdvancedToggle("Soul of Garo", "soul_garo", "images/souls/enemy/garo.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Gekkos", "soul_gekkos", "images/souls/enemy/gekkos.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Gerudo/Pirate Fighters", "soul_gerudo_pirate_fighters", "images/souls/enemy/gerudo_pirate_fighters.png")
-    
     AdvancedToggle("Soul of Gohma Larvae", "soul_gohma_larvae", "images/souls/enemy/gohma_larvae.png", "images/overlays/oot.png", false, false, true)
     AdvancedToggle("Soul of Gomess", "soul_gomess", "images/souls/enemy/gomess.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Guays", "soul_guays", "images/souls/enemy/guays.png")
     AdvancedToggle("Soul of Hiploops", "soul_hiploops", "images/souls/enemy/hiploops.png", "images/overlays/mm.png", false, false, true)
+    
     AdvancedToggle("Soul of Iron Knuckles", "soul_iron_knuckles", "images/souls/enemy/iron_knuckles.png")
     AdvancedToggle("Soul of Jabu-Jabu's Parasites", "soul_jabu_jabus_parasites", "images/souls/enemy/jabu_jabus_parasites.png", "images/overlays/oot.png", false, false, true)
     AdvancedToggle("Soul of Keese", "soul_keese", "images/souls/enemy/keese.png")
-    
     AdvancedToggle("Soul of Leevers", "soul_leevers", "images/souls/enemy/leevers.png")
     AdvancedToggle("Soul of Like-Likes", "soul_like_likes", "images/souls/enemy/like_likes.png")
     AdvancedToggle("Soul of Lizalfos/Dinolfos", "soul_lizalfos_dinolfos", "images/souls/enemy/lizalfos_dinolfos.png")
     AdvancedToggle("Soul of Moblins", "soul_moblins", "images/souls/enemy/moblins.png", "images/overlays/oot.png", false, false, true)
     AdvancedToggle("Soul of Nejirons", "soul_nejirons", "images/souls/enemy/nejirons.png", "images/overlays/mm.png", false, false, true)
+    
     AdvancedToggle("Soul of Octoroks", "soul_octoroks", "images/souls/enemy/octoroks.png")
     AdvancedToggle("Soul of Peahats", "soul_peahats", "images/souls/enemy/peahats.png")
-    
+    AdvancedToggle("Soul of Poes", "soul_poes", "images/souls/enemy/poes.png")
     AdvancedToggle("Soul of Real Bombchu", "soul_real_bombchu", "images/souls/enemy/real_bombchu.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of ReDeads/Gibdos", "soul_redeads_gibdos", "images/souls/enemy/redeads_gibdos.png")
     AdvancedToggle("Soul of Shaboms", "soul_shaboms", "images/souls/enemy/shaboms.png", "images/overlays/oot.png", false, false, true)
     AdvancedToggle("Soul of Shell Blades", "soul_shell_blades", "images/souls/enemy/shell_blades.png")
     AdvancedToggle("Soul of Skull Kids", "soul_skull_kids", "images/souls/enemy/skull_kids.png", "images/overlays/oot.png", false, false, true)
+    
     AdvancedToggle("Soul of Skullfish", "soul_skullfish", "images/souls/enemy/skullfish.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Skulltulas", "soul_skulltulas", "images/souls/enemy/skulltulas.png")
-    
     AdvancedToggle("Soul of Skullwalltulas", "soul_skullwalltulas", "images/souls/enemy/skullwalltulas.png")
     AdvancedToggle("Soul of Snappers", "soul_snappers", "images/souls/enemy/snappers.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Spikes", "soul_spikes", "images/souls/enemy/spikes.png", "images/overlays/oot.png", false, false, true)
     AdvancedToggle("Soul of Stalchildren", "soul_stalchildren", "images/souls/enemy/stalchildren.png")
     AdvancedToggle("Soul of Stalfos", "soul_stalfos", "images/souls/enemy/stalfos.png", "images/overlays/oot.png", false, false, true)
     AdvancedToggle("Soul of Stingers", "soul_stingers", "images/souls/enemy/stingers.png", "images/overlays/oot.png", false, false, true)
+    
     AdvancedToggle("Soul of Tailpasarans", "soul_tailpasarans", "images/souls/enemy/tailpasarans.png", "images/overlays/oot.png", false, false, true)
-
     AdvancedToggle("Soul of Takkuri", "soul_takkuri", "images/souls/enemy/takkuri.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Tektites", "soul_tektites", "images/souls/enemy/tektites.png")
     AdvancedToggle("Soul of Torch Slugs", "soul_torch_slugs", "images/souls/enemy/torch_slugs.png", "images/overlays/oot.png", false, false, true)
@@ -606,7 +606,7 @@ if string.find(Tracker.ActiveVariantUID, "Souls") then
     AdvancedToggle("Soul of Warts", "soul_warts", "images/souls/enemy/warts.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Wizzrobes", "soul_wizzrobes", "images/souls/enemy/wizzrobes.png", "images/overlays/mm.png", false, false, true)
     AdvancedToggle("Soul of Wolfos", "soul_wolfos", "images/souls/enemy/wolfos.png")
-    
+
     AdvancedStatic("NPC Souls", "npc_souls_label", "images/souls/npc/label.png")
 
     AdvancedToggle("Soul of Astronomer", "soul_astronomer", "images/souls/npc/astronomer.png")
@@ -681,6 +681,13 @@ if string.find(Tracker.ActiveVariantUID, "Souls") then
     AdvancedToggle("Soul of Zoras", "soul_zoras", "images/souls/npc/zoras.png")
     AdvancedToggle("Soul of Zora Shopkeeper", "soul_zora_shopkeeper", "images/souls/npc/zora_shopkeeper.png")
     
+    AdvancedStatic("Animal Souls", "animal_souls_label", "images/souls/animal/label.png")
+
+    AdvancedToggle("Soul of Butterflies", "soul_butterflies", "images/souls/animal/butterflies.png")
+    AdvancedToggle("Soul of Cows", "soul_cows", "images/souls/animal/cows.png")
+    AdvancedToggle("Soul of Cuccos", "soul_cuccos", "images/souls/animal/cuccos.png")
+    AdvancedToggle("Soul of Dogs", "soul_dogs", "images/souls/animal/dogs.png")
+
     AdvancedStatic("Misc. Souls", "misc_souls_label", "images/souls/misc/label.png")
     
     AdvancedToggle("Soul of Business Scrubs", "soul_business_scrubs", "images/souls/misc/business_scrubs.png")

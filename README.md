@@ -1,6 +1,6 @@
 # OoTMM Randomizer Item Tracker for EmoTracker
 
-###### Version 2.0.0
+###### Version 2.1.0
 
 <br />
 
@@ -264,6 +264,11 @@ If this setting is enabled, you will be able to track all of the Enemy Souls.
 ![NPC Souls](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/settings/souls/npc.png?raw=true)
 
 If this setting is enabled, you will be able to track all of the NPC Souls.
+
+
+![Animal Souls](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/settings/souls/animal.png?raw=true)
+
+If this setting is enabled, you will be able to track all of the Animal Souls.
 
 
 ![Misc. Souls](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/settings/souls/misc.png?raw=true)

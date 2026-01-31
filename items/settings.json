@@ -567,6 +567,14 @@
         "loop": true
     },
     {
+        "name": "Shuffle Animal Souls",
+        "type": "toggle",
+        "img": "images/settings/souls/animal.png",
+        "codes": "setting_souls_animal",
+        "initial_active_state": true,
+        "loop": true
+    },
+    {
         "name": "Shuffle Misc. Souls",
         "type": "toggle",
         "img": "images/settings/souls/misc.png",
