@@ -192,6 +192,15 @@ function update_skulltula_tokens()
             end
         end
     end
+
+    local spt = Tracker:FindObjectForCode("setting_platinum_skulltula_token")
+    local pt = Tracker:FindObjectForCode("platinum_skulltula_token")
+
+    if spt.Active then
+        pt.ItemState:setHidden(false)
+    else
+        pt.ItemState:setHidden(true)
+    end
 end
 
 function update_tingle_maps()

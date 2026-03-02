@@ -166,6 +166,13 @@
         "codes": "setting_transcendent_fairy",
         "loop": true
     },
+    {
+        "name": "Platinum Token",
+        "type": "toggle",
+        "img": "images/settings/platinum_skulltula_token.png",
+        "codes": "setting_platinum_skulltula_token",
+        "loop": true
+    },
 
 
 
@@ -207,6 +214,7 @@
         "type": "toggle",
         "img": "images/settings/progressive_knife_and_biggoron.png",
         "codes": "setting_progressive_knife_and_biggoron",
+        "initial_active_state": true,
         "loop": true
     },
     {

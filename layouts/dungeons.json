@@ -411,6 +411,12 @@
                                         "margin": "0,0"
                                     }
                                 ]
+                            },
+                            {
+                                "type": "item",
+                                "item": "transcendent_fairy",
+                                "h_alignment": "center",
+                                "margin": "0,0"
                             }
                         ]
                     }
@@ -825,6 +831,12 @@
                                 "width": 32,
                                 "h_alignment": "center",
                                 "margin": "0,0"
+                            },
+                            {
+                                "type": "item",
+                                "item": "skeleton_key",
+                                "h_alignment": "center",
+                                "margin": "0,0"
                             }
                         ]
                     },
@@ -848,19 +860,7 @@
                             },
                             {
                                 "type": "item",
-                                "item": "skeleton_key",
-                                "h_alignment": "center",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
                                 "item": "magical_rupee",
-                                "h_alignment": "center",
-                                "margin": "0,0"
-                            },
-                            {
-                                "type": "item",
-                                "item": "transcendent_fairy",
                                 "h_alignment": "center",
                                 "margin": "0,0"
                             }

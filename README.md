@@ -202,6 +202,11 @@ If this setting is enabled, you will be able to track the 6 Tingle Maps.
 
 If this setting is enabled, you will be able to track which of the 10 Owl Statues you have unlocked, which could be randomized.
 
+
+![Platinum Token](https://github.com/ariahks/ootmmrando_ariahks/blob/main/images/settings/platinum_skulltula_token.png?raw=true)
+
+If this setting is enabled, you will be able to track the Platinum Token.
+
 <br />
 
 ### Misc. Settings

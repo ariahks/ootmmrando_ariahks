@@ -1,5 +1,14 @@
 # Releases
 
+## v2.2.0
+
+- Changed default state of setting "Progressive Knife and Biggoron" to active in order to match the randomizer's "Default" preset.
+- Added the "Platinum Token" setting to add the platinum token to the tracker.
+- Rearranged the "Equipment" section to make room for the new "Platinum Token".
+- Changed the "Tingle Maps" size and labels to look more like the "Owl Statues", increasing visibility and freeing up space.
+- Rearranged the "Skeleton Key", "Magical Rupee", and "Transcendent Fairy" items in the "Dungeons" section to look better.
+- The "Eggs", the "Chicken", and "Zelda's Letter" in the "Trade Quests" section now dynamically change positions depending on which of the three are enabled.
+
 ## v2.1.0
 
 - Added the "Soul of Poe" to the "Enemy Souls" section in the "w/ Souls" variant.
