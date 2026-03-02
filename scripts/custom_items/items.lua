@@ -474,10 +474,11 @@ AdvancedConsumable("Shadow Temple Silver Rupees (Spikes)", "shadow_temple_sr_spi
 
 DungeonReward("Free Reward", "free_reward")
 
-AdvancedConsumable("Triforce Pieces", "triforce_pieces", "images/equipment/triforce_piece.png")
+AdvancedConsumable("Triforce Pieces", "triforce_pieces", "images/equipment/triforce_piece.png", "images/blank.png")
 AdvancedToggle("Skeleton Key", "skeleton_key", "images/dungeons/skeleton_key.png")
 AdvancedToggle("Magical Rupee", "magical_rupee", "images/dungeons/magical_rupee.png")
 AdvancedToggle("Transcendent Fairy", "transcendent_fairy", "images/dungeons/transcendent_fairy.png")
+AdvancedToggle("Platinum Token", "platinum_skulltula_token", "images/sidequests/platinum_skulltula_token.png")
 
 AdvancedProgressive("Ice Cavern", "ice_cavern_label", {{"images/dungeons/labels/ice_cavern.png", {"images/dungeons/labels/ice_cavern.png", "overlay|images/overlays/va.png"}, {"images/dungeons/labels/ice_cavern.png", "overlay|images/overlays/mq.png"}}, {}}, true, false, false)
 AdvancedToggle("Ice Cavern Map", "ice_cavern_map", "images/dungeons/map.png")

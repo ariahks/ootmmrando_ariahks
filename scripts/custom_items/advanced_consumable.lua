@@ -1,6 +1,6 @@
 AdvancedConsumable = CustomItem:extend()
 
-function AdvancedConsumable:init(name, code, imagePath)
+function AdvancedConsumable:init(name, code, imagePath, hiddenImagePath)
     self:createItem(name)
     self.code = code
     self:setProperty("hidden", true)
@@ -8,8 +8,15 @@ function AdvancedConsumable:init(name, code, imagePath)
     self:setProperty("max_count", 0)
     self:setProperty("badge_text", nil)
     self:setProperty("badge_color", "white")
+
     self.activeImage = ImageReference:FromPackRelativePath(imagePath)
     self.disabledImage = ImageReference:FromPackRelativePath(imagePath, "@disabled")
+    self.hiddenImage = nil
+
+    if hiddenImagePath ~= nil then
+        self.hiddenImage = ImageReference:FromPackRelativePath(hiddenImagePath)
+    end
+
     self.ItemInstance.PotentialIcon = self.activeImage
 
     self:updateIcon()
@@ -79,7 +86,7 @@ function AdvancedConsumable:updateIcon()
             self.ItemInstance.BadgeText = 0
         end
     else
-        self.ItemInstance.Icon = nil
+        self.ItemInstance.Icon = self.hiddenImage
         self.ItemInstance.BadgeText = 0
     end
 end
